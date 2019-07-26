@@ -16,9 +16,9 @@
 
 ## => Site Settings
 ##############################
-text_skin: orange 
+text_skin: default 
 # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default
+highlight_theme: tomorrow-night-bright
 # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://qhdl.github.io
 # the base hostname & protocol for your site e.g. https://www.someone.com
