@@ -1,6 +1,6 @@
 header:
   - titles:
-      en      : &EN       Archive
+      en      : &EN       Quy hoạch
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -34,5 +34,5 @@ header:
     url: /about.html
     
   - titles:
-       en      : &EN       RSS
+       en      : &EN       Nhận tin
     url: /feed.xml
