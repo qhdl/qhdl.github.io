@@ -17,7 +17,7 @@ header:
     url: /archive.html
 
   - titles:
-      en      : &EN       About
+      en      : &EN       Về Chúng Tôi
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
