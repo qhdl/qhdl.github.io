@@ -138,8 +138,7 @@ comments:
 
   ## Disqus
   disqus: quy-hoach-da-lat
-    shortname:
-    # the Disqus shortname for the site
+    shortname: # the Disqus shortname for the site
 
 
   ## Gitalk
