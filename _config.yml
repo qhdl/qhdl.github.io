@@ -137,8 +137,9 @@ comments:
   # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
-  disqus: quy-hoach-da-lat
-    shortname: # the Disqus shortname for the site
+  disqus: 
+    shortname: quy-hoach-da-lat
+    # the Disqus shortname for the site
 
 
   ## Gitalk
