@@ -9,8 +9,6 @@ categories:
 author: Lap Nguyen
 key: Quy hoạch phân khu
 show_author_profile: true
-articles:
-  data_source: site.sample_page
 ---
 
 <iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="640" height="480"></iframe>
