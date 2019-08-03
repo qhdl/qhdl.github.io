@@ -49,3 +49,5 @@ Năm 1899, Toàn quyền P.Doumer đích thân lên quan sát tại chỗ và đ
 #### QUY HOẠCH ĐÀ LẠT THEO THỜI GIAN
 
 Họa đồ đô thị đầu tiên do KTS. Hébrard thiết lập (1923) và sau này vào năm 1942, một kiến trúc sư khác ông Lagisquet có sữa lại đôi chút họa đồ này nhưng vẫn giữ nguyên những nét chính.
+
+![Đà Lạt](https://qhdl.github.io/assets/images/posts/do-an-quy-hoach.jpg "Image")
