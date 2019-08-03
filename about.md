@@ -18,98 +18,34 @@ titles:
 key: page-about
 ---
 
-A Developer in Dynamics Ax, Dynamics 365 for finance and operations, Azure, PowerApps.
+#### NHỮNG KHÁM PHÁ ĐẦU TIÊN
 
-Here are some of my experience with Dynamics 365 for finance and operations
+Ngày 21 tháng 6 năm 1893, bác sĩ Yersin đặt chân lên cao nguyên Lâm Viên đã linh cảm được tương lai vùng này. Cuối năm 1897, ông đã góp ý kiến cho toàn quyền Paul-Doumer về việc thiết lập một trung tâm dưỡng sức cho công chức Pháp tại đây. Đà Lạt đã được khai sinh từ đó.
 
-#### Dynamics 365 for finance and operations development skills: 
-  * Familiar with extensibility in Dynamics 365 for finance and operations (Class extensions, method wrapping/replacing and Chain of Command).
-  * Strong X++ coding skills.
-  * Workflow, batch job development.
-  * Office add-ins development for form.
-  * Familiar with SSRS reports, data entity, Aggregate measurement. 
-  * VSTS Azure DevOps configuration for DEV and UAT environment.
-  * Continuous build and deployment configuration for BUILD and UAT environment.
-  * Automation load test practice using Regression tool and Perf SDK.
-  * Expert in debugging in DEV/UAT and using trace parser.
-  * Project, model, package management.
+Danh từ Dalat được giải thích qua hai giã thuyết:
 
-#### Dynamics 365 for finance and operations provisioning and operation skills:
-  * Ability to deploy On-premises version (have successfully deployed two on-premises environments).
-  * Setup and provision Cloud-hosted environment include DEV and BUILD/TEST environment; implementation environment includes DEV, UAT sandbox, Production; VHD local development environment.
-  * LCS configuration with Azure subscription, mapping BPM with Azure DevOps.
-  * Environment maintenance and SQL performance monitoring within LCS.
-  * Apply packages, hotfixes, upgrading.
-  * Refresh data From PROD to UAT/DEV, moving data across the environments.
+* Giã thuyết thứ nhất: Da lat có hai câu thơ hồi văn bằng tiếng La-Tin: "Dat aliis laotitiam, aliis temperiem" có nghĩa là "cho người này niềm vui, cho người (kẻ) khác sức khỏe" ghép các chữ đầu của hai câu thơ hồi văn;
 
-#### Dynamics 365 for finance and operations data management and integration skills:
-  * Building and using Aggregate Measurements, data entity, and Composite data entity development.
-  * Using data management framework to import and export data.
-  * Ability to use Bring your own database feature.
-  * Implement data integration in many scenarios using OData, Batch data API, Recurring integrations, Data package API, consume external web services, excel integration.
-  * Data integration by using Common Data Service (PowerApps).
-  * Ability to use Postman for integration testing.
+* Giã thuyết thứ hai: Đa là ngôn ngữ của người dân tộc thiểu số cũng có nghĩa là nước, suối, sông ... Lat là tên một bộ tộc thiểu số sống ở đây.
 
-#### Dynamics 365 for finance and operations reporting skills:
-  * Building and extending Aggregate measurement for PowerBI report.
-  * Configure Power BI integration for workspaces.
-  * Familiar with Financial report, generate or reset data mart.
-  * Power BI integration with Entity store
-  * Configure BYOD to connect with another reporting system.
+Theo giã thuyết thứ nhì này, Đalat có nghĩ là suối của người Lat, hay là xứ của người Lat, nếu hiểu Đa là nước hay quốc gia.
 
-#### Dynamics 365 for finance and operations troubleshooting skills:
-  * Reading Trace parser for X++ logic error or data inconsistency.
-  * Using LCS to find expensive SQL queries for application hanging or slow
-  * Ability to use Fiddler to troubleshoot authentication error client interaction.
-  * Ability to use ProcDump, ListDLLs, Process Monitor tools.
-  * PowerShell scripts debugging for deployment errors.
- 
+Dòng suối Da Lat mang tên là Cam Ly ngày nay.
 
-#### If there is a customization, then should follow these things
-  * Minimizing the footprint of changes (I know how painful is when merging code from different partners or upgrade or installing hot-fix).
-  * Where to make the change (always at the highest level and in this order: class, table, form data source field/method, form control).
-  * Using field groups (The reason this reduces footprint).
-  * Upgrades and system maintainability.
-  * Design for a service-oriented architecture.
-  * Design for code reuse.
-  * Apply Dynamics AX design patterns.
-  * Apply Best practice.
-	
-#### The functions which I've been working with
+Ý kiến thành lập một trung tâm dưỡng sức trên cao nguyên Lâm Viên đã được Toàn quyền Doumer nhiệt liệt tán thành.
 
-  * **General Ledger**
-	* Financial Dimension
-	* Chart of accounts
-	* Financial statements – Balance sheet, Income statement
-	* Currency and exchange
-	* Journal and Journal posting framework
+Tháng 10 năm 1897, Toàn quyền P.Doumer cử một phái đoàn quân sự dưới sự hướng dẫn của Đại úy pháo binhThouard và ông Cunhac, phụ tá trắc địa, với nhiệm vụ tìm kiếm và nghiên cứu những con đường xâm nhập dễ nhất vào cao nguyên.
 
-  * **Trade and Logistics**
-	* Item creation
-	* Sales process
-	* Purchase process
-	* Transfer order
-	* Supply chain management
-	
-  * **Production**
-	* BOM
-	* Routes and operations
-	* Purchase process
-	* Transfer order
-	
-  * **Retails**
-	* Installation and configuration Retails POS
-	* The Async Service
-	* Real-time Service
-	* Certificate Management
-	
-  * **Warehouse management**
-	* Workflows
-	* Picking and packing
-	* Mobile devices
+Phái đoàn Thouard từ Sài Gòn cập bến Nha Trang vào cuối tháng 10 năm 1897 và bắt đầu công việc trinh sát ở thượng lưu sông Nha Trang. Sau một tháng khó khăn, cực nhọc để thiết lập những kết quả trắc địa trong một vùng núi chỉ có vài bộ lạc hiếu chiến, phái đoàn tới thung lũng sông Đa Nhim, mạng thượng Đơn Dương, ở một xứ của bộ lạc Loupah. Từ đó, phái đoàn men theo hữu ngạn thung lũng, đi dọc lên dòng DaTam, một chi lưu của sông Đa Nhim, tới thác Prenn và sau cùng đền vùng Đà Lạt.
 
-Here are [my badges](https://www.youracclaim.com/users/nguyen-max). Thank you for reading.
+Phái đoàn ngừng lại ít lâu trên bờ suối Cam Ly rồi lại cắm lều ở Đankia. Nơi đây chỉ có một bộ lạc khá quan trọng, khắp vùng còn lại đều vắng vẽ.
 
-:)
+Công cuộc nghiên cứu của phái đoàn kết thúc tháng 9 năm 1898, kéo dài 11 tháng. Sau đó phái đoàn trở về Sài Gòn. Cuối năm 1898, Toàn quyền P.Doumer lại cử thêm một phái đoàn khác dưới quyền điều khiển của Đại úy kỵ binh Guynet. Ông Cunhac trong phái đoàn với tư cách thư ký riêng của Đại úy  Guynet và có trách nhiệm nghiên cứu, thiết lập một con đường mòn từ chân Trương Sơn đến cao nguyên Lâm Viên, một con đường cho xe đi được nhưng không trải đá, con đường này đi từ Phan Rang và hướng về phía Bắc tới tận chân Trường Sơn.
 
-{% include author-links.html %}
+Ngoài ra cũng phải thiết lập một con đường mòn với độ dốc 8 độ đi từ chân Trường Sơn đến cao nguyên Lâm Viên. Đường mòn này bắt đầu từ làng Xom-Gom trên sông Phan Rang, ngang qua Bà Ban trên sông Pha (Krongpha). Từ đó lên dần tới Lâm Viên,sau khi ngang qua vùng Đơn Dương (Dran) và Trạm Hành (Arbre-Broyé).
+
+Năm 1899, Toàn quyền P.Doumer đích thân lên quan sát tại chỗ và đã chấp nhận tức khắc những ngân quỹ cần thiết. Bắt đầu từ năm này, Đà Lạt dần dần hình thành.
+
+#### QUY HOẠCH ĐÀ LẠT THEO THỜI GIAN
+
+Họa đồ đô thị đầu tiên do KTS. Hébrard thiết lập (1923) và sau này vào năm 1942, một kiến trúc sư khác ông Lagisquet có sữa lại đôi chút họa đồ này nhưng vẫn giữ nguyên những nét chính.
