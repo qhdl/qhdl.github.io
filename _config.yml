@@ -188,12 +188,12 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider:
+  provider: google
   # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id :
+    tracking_id : UA-57379422-4
     # Google Analytics id for the site
     anonymize_ip: false 
     # Anonymize IP tracking for Analytics
