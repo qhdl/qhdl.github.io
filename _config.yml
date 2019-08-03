@@ -236,7 +236,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: article
+      layout: articles
       article_header:
         type: cover
         image:  
