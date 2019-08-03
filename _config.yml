@@ -237,6 +237,10 @@ defaults:
       type: posts
     values:
       layout: article
+      article_header:
+        type: cover
+        image:  
+          src: /assets/images/posts/general-cover.png
       sharing: true
       license: false
       category: post

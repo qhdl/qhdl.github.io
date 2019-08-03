@@ -9,14 +9,13 @@ categories:
 author: Lap Nguyen
 key: Quy hoạch phân khu
 show_author_profile: true
+articles:
+  data_source: site.sample_page
+  show_excerpt: true
 ---
 
-<p><!--more--></p>
 <p><iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="640" height="480"></iframe></p>
-<p>Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ lập quy hoạch phân khu/chi tiết trên địa bàn thành phố Đà Lạt.</p>
-<p>Để biết thêm chi tiết, vui lòng liên hệ với Sở Xây dựng tỉnh Lâm Đồng, hoặc UBND thành phố Đà Lạt.</p>
-<p>Trang web không chịu trách nhiệm về các thông tin quy hoạch.</p>
-<p>&nbsp;</p>
+
 <p><iframe src="https://drive.google.com/file/d/1MMVLwnkMomKJ8q6leZCcA94O8wAHTXz9/preview" width="840" height="680"></iframe></p>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ lập quy hoạch phân khu/chi tiết trên địa bàn thành phố Đà Lạt.
