@@ -14,9 +14,9 @@ articles:
   show_excerpt: true
 ---
 
-<p><iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="640" height="480"></iframe></p>
+<iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="640" height="480"></iframe>
 
-<p><iframe src="https://drive.google.com/file/d/1MMVLwnkMomKJ8q6leZCcA94O8wAHTXz9/preview" width="840" height="680"></iframe></p>
+<iframe src="https://drive.google.com/file/d/1MMVLwnkMomKJ8q6leZCcA94O8wAHTXz9/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ lập quy hoạch phân khu/chi tiết trên địa bàn thành phố Đà Lạt.
 
