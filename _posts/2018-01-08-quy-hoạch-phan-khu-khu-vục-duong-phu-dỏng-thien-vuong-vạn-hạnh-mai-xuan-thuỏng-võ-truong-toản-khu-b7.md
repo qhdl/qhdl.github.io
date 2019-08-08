@@ -4,10 +4,10 @@ date: 2018-01-08
 title: Khu vực đường Phù Đổng Thiên Vương - Vạn Hạnh - Mai Xuân Thưởng - Võ Trường Toản (Khu B7)
 tags:
 - Quy hoạch phân khu
-categories:
-- Quy hoạch phân khu
+# categories:
+# - Quy hoạch phân khu
 author: Lap Nguyen
-key: Quy hoạch phân khu
+key: 2018-01-08-quy-hoạch-phan-khu-khu-vục-duong-phu-dỏng-thien-vuong-vạn-hạnh-mai-xuan-thuỏng-võ-truong-toản-khu-b7
 show_author_profile: true
 # article_header:
 #         type: cover
@@ -15,6 +15,11 @@ show_author_profile: true
 #           src: /assets/images/posts/general-cover.png
 # sidebar:
 #   nav: layouts
+layout: articles
+articles:
+  data_source: site.sample_page
+  show_excerpt: true
+  show_readmore: true
 mode: immersive
 header:
   theme: dark
@@ -22,10 +27,8 @@ article_header:
   type: overlay
   theme: dark
   background_color: '#123'
-  background_image: false
-articles:
-  data_source: site.sample_page
-  show_excerpt: true
+  background_image: 
+    src: /docs/assets/images/cover1.jpg
 ---
 
 <iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="840" height="680"></iframe>
