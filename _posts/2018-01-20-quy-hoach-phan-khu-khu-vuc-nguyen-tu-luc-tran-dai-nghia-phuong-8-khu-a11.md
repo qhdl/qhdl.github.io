@@ -1,7 +1,6 @@
 ---
-date: 2018-01-08
-#slug: Khu vực đường Phù Đổng Thiên Vương - Vạn Hạnh - Mai Xuân Thưởng - Võ Trường Toản (Khu B7)
-title: Khu vực đường Phù Đổng Thiên Vương - Vạn Hạnh - Mai Xuân Thưởng - Võ Trường Toản (Khu B7)
+date: 2018-01-20
+title: QUY HOẠCH PHÂN KHU KHU VỰC NGUYÊN TỬ LỰC - TRẦN ĐẠI NGHĨA, PHƯỜNG 8 (KHU A11)
 tags:
 - Quy hoạch phân khu
 categories:
@@ -25,9 +24,9 @@ article_header:
   background_image: false
 ---
 
-<iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="640" height="480"></iframe>
-
-<iframe src="https://drive.google.com/file/d/1MMVLwnkMomKJ8q6leZCcA94O8wAHTXz9/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1KpLucYXue89bL3cKsTiqerayEXs9FTDI/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1VWcxxTl7Ect4DVjdPfEHw9rTpLDtJrm8/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1t85Kj-Kfb7kxCeJhz06v-IOJwz0DFzyH/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ lập quy hoạch phân khu/chi tiết trên địa bàn thành phố Đà Lạt.
 
