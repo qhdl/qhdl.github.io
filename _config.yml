@@ -236,7 +236,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: articles
+      layout: article
       sharing: true
       license: false
       category: post

@@ -14,6 +14,7 @@ show_author_profile: true
 #           src: /assets/images/posts/general-cover.png
 # sidebar:
 #   nav: layouts
+layout: articles
 article_header:
   type: overlay
   theme: dark
