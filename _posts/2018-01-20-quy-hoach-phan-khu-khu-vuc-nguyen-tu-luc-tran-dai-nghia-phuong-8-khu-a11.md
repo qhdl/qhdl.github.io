@@ -14,17 +14,17 @@ show_author_profile: true
 #           src: /assets/images/posts/general-cover.png
 # sidebar:
 #   nav: layouts
-mode: immersive
-header:
-  theme: dark
 article_header:
   type: overlay
   theme: dark
-  background_color: '#123'
-  background_image: false
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /docs/assets/images/cover3.jpg
 ---
 
-<iframe src="https://drive.google.com/file/d/1KpLucYXue89bL3cKsTiqerayEXs9FTDI/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1KpLucYXue89bL3cKsTiqerayEXs9FTDI/preview" width="840" height="680"></iframe>
+<!--more-->
 <iframe src="https://drive.google.com/file/d/1VWcxxTl7Ect4DVjdPfEHw9rTpLDtJrm8/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1t85Kj-Kfb7kxCeJhz06v-IOJwz0DFzyH/preview" width="840" height="680"></iframe>
 

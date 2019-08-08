@@ -239,7 +239,7 @@ defaults:
       layout: articles
       articles:
         data_source: site.sample_page
-        show_excerpt: true  
+        show_excerpt: grid  
       sharing: true
       license: false
       category: post
