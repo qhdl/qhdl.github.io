@@ -15,11 +15,7 @@ show_author_profile: true
 #           src: /assets/images/posts/general-cover.png
 # sidebar:
 #   nav: layouts
-layout: articles
-articles:
-  data_source: site.sample_page
-  show_excerpt: true
-  show_readmore: true
+
 mode: immersive
 header:
   theme: dark
