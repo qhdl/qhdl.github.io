@@ -237,11 +237,6 @@ defaults:
       type: posts
     values:
       layout: articles
-      articles:
-        type: grid
-        show_excerpt: true
-        show_readmore: true
-        show_info: true
       sharing: true
       license: false
       category: post

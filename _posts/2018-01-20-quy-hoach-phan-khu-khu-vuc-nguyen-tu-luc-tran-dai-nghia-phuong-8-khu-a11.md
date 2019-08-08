@@ -21,11 +21,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /docs/assets/images/cover3.jpg
-articles:
-  type: grid
-  show_excerpt: true
-  show_readmore: true
-  show_info: true
 ---
 
 <iframe src="https://drive.google.com/file/d/1KpLucYXue89bL3cKsTiqerayEXs9FTDI/preview" width="840" height="680"></iframe>
