@@ -23,6 +23,9 @@ article_header:
   theme: dark
   background_color: '#123'
   background_image: false
+articles:
+  data_source: site.sample_page
+  show_excerpt: true
 ---
 
 <iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="840" height="680"></iframe>
