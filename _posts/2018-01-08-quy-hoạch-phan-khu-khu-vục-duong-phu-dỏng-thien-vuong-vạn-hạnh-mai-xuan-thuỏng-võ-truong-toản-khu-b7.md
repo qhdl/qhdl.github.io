@@ -9,15 +9,15 @@ cover: /docs/assets/images/axure/articles-item-cover-excerpt.jpg
 tags:
 - Quy hoạch phân khu
 key: 2018-01-08-quy-hoạch-phan-khu-khu-vục-duong-phu-dỏng-thien-vuong-vạn-hạnh-mai-xuan-thuỏng-võ-truong-toản-khu-b7
-# mode: immersive
-# header:
-#   theme: dark
-# article_header:
-#   type: overlay
-#   theme: dark
-#   background_color: '#123'
-#   background_image: 
-#     src: /docs/assets/images/cover1.jpg
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: 
+    src: /docs/assets/images/cover1.jpg
 ---
 
 <iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="840" height="680"></iframe>
