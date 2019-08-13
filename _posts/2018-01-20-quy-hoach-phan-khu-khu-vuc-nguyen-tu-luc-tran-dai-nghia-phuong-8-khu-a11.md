@@ -8,7 +8,7 @@ tags:
 # - Quy hoạch phân khu
 author: Lap Nguyen
 key: 2018-01-20-quy-hoach-phan-khu-khu-vuc-nguyen-tu-luc-tran-dai-nghia-phuong-8-khu-a11
-cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore.jpg
+cover: /docs/assets/images/cover3.jpg
 articles:
   data_source: site.sample_page
   show_excerpt: true
