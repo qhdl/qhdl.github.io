@@ -224,7 +224,6 @@ exclude:
   - /vendor
 
 defaults:
-  ## Post
   - scope:
       path: ""
       type: posts
