@@ -1,5 +1,5 @@
 ---
-layout: articles
+# layout: articles
 date: 2018-01-20
 title: QUY HOẠCH PHÂN KHU KHU VỰC NGUYÊN TỬ LỰC - TRẦN ĐẠI NGHĨA, PHƯỜNG 8 (KHU A11)
 tags:
@@ -9,17 +9,17 @@ tags:
 author: Lap Nguyen
 key: 2018-01-20-quy-hoach-phan-khu-khu-vuc-nguyen-tu-luc-tran-dai-nghia-phuong-8-khu-a11
 cover: /assets/images/posts/do-an-quy-hoach.jpg
-articles:
-  data_source: site.sample_page
-  show_excerpt: true
-  show_readmore: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/assets/images/cover3.jpg
+# articles:
+#   data_source: site.sample_page
+#   show_excerpt: true
+#   show_readmore: true
+# article_header:
+#   type: overlay
+#   theme: dark
+#   background_color: '#203028'
+#   background_image:
+#     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+#     src: /docs/assets/images/cover3.jpg
 ---
 
 <iframe src="https://drive.google.com/file/d/1KpLucYXue89bL3cKsTiqerayEXs9FTDI/preview" width="840" height="680"></iframe>
