@@ -1,19 +1,16 @@
 ---
-date: 2018-01-28
-title: Quy hoạch chi tiết khu dân cư - tái định cư 5B, phường 3, phường 4
+date: 2018-03-07
+title: Quy hoạch phân khu Khu vực Đông - Bắc hồ Xuân Hương (Khu A9), phường 8 và phường 9, thành phố Đà Lạt
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
-key: quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-5b-phuong-3-phuong-4
+key: quy-hoach-phan-khu-khu-vuc-dong-bac-ho-xuan-huong-khu-a9-phuong-8-va-phuong-9-thanh-pho-da-lat
 cover: /assets/images/posts/do-an-quy-hoach.jpg
 ---
-
-<iframe src="https://drive.google.com/file/d/1akttoqbKvCF7UPMQnc0z_oWLcnoOPEu2/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1GvSRck1yCnhnjJt2ovT8julm4z1fx73A/preview" width="840" height="680"></iframe>
 <!--more-->
-<iframe src="https://drive.google.com/file/d/1CTgKFAPxL7-euQCHISpcXoIeQAkzRpEI/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/1dcowGH9J7o0IUiGd6aPJFOnPTgTsQklK/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/1rvs7_Y1sbdfurSjbQWYVTLW109QK7gN2/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1T5pEkJViOI0Nx9WkBvpunF2SJ-B3xIWW/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 

@@ -1,19 +1,16 @@
 ---
-date: 2018-01-28
-title: Quy hoạch chi tiết khu dân cư - tái định cư 5B, phường 3, phường 4
+date: 2018-03-08
+title: Quy hoạch chi tiết xây dựng trung tâm giao dịch hoa và khu dân cư - tái định cư Prenn, phường 3
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
-key: quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-5b-phuong-3-phuong-4
+key: quy-hoach-chi-tiet-xay-dung-trung-tam-giao-dich-hoa-va-khu-dan-cu-tai-dinh-cu-prenn-phuong-3
 cover: /assets/images/posts/do-an-quy-hoach.jpg
 ---
-
-<iframe src="https://drive.google.com/file/d/1akttoqbKvCF7UPMQnc0z_oWLcnoOPEu2/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/14hpct9Lg6oojwyCneVE2GLLO6wTSbCGW/preview" width="840" height="680"></iframe>
 <!--more-->
-<iframe src="https://drive.google.com/file/d/1CTgKFAPxL7-euQCHISpcXoIeQAkzRpEI/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/1dcowGH9J7o0IUiGd6aPJFOnPTgTsQklK/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/1rvs7_Y1sbdfurSjbQWYVTLW109QK7gN2/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1RLEFHh4V7X7HpZph98oiVu2IiGBuMmj_/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 

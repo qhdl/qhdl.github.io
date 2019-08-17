@@ -228,7 +228,12 @@ defaults:
   - scope:
       path: ""
     values:
+      layout: articles
+      header:
+        theme: dark
+        background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
       articles:
+        type: grid
         # excerpt_type: html
 
   ## Post
@@ -236,11 +241,14 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: articles
-      articles:
-        data_source: site.sample_page
-        show_excerpt: true
-        show_readmore: true
+      layout: article
+      header:
+        theme: dark
+        background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
+      article_header:
+        background_color: '#203028'
+        background_image:
+          gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
       sharing: true
       license: false
       category: post
