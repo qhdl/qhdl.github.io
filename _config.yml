@@ -229,7 +229,7 @@ defaults:
       path: ""
     values:
       articles:
-        excerpt_type: html
+        # excerpt_type: html
 
   ## Post
   - scope:
