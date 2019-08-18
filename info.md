@@ -33,7 +33,10 @@ Trang web cũng sẽ công khai các dự thảo về nhiệm vụ quy hoạch c
 
 ### Mọi chi tiết xin liên hệ
 Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt, tỉnh Lâm Đồng
+
 Địa chỉ: Tầng 2, Khối A, số 29 đường Ba tháng Tư, phường 3, thành phố Đà Lạt, tỉnh Lâm Đồng.
+
 *Nguyễn Xuân Lập*
+
 *0.913 188 648*
 
