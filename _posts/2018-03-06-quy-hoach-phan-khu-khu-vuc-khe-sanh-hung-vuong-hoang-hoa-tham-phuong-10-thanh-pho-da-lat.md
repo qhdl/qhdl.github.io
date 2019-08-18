@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-thanh-pho-da-lat
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-thanh-pho-da-lat.png
 ---
 <iframe src="https://drive.google.com/file/d/1A8t-JJtqEK5MvIx5XUefRCwAv45mJKVj/preview" width="840" height="680"></iframe>
 <!--more-->
