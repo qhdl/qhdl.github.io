@@ -1,5 +1,5 @@
 ---
-date: 2018-01-29
+date: 2019-01-29
 title: Quy hoạch chi tiết xây dựng khu dân cư - tái định cư đường Ngô Thì Sỹ, phường 4
 tags:
 - Quy hoạch phân khu

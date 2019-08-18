@@ -1,5 +1,5 @@
 ---
-date: 2018-01-08
+date: 2019-01-08
 title: Khu vực đường Phù Đổng Thiên Vương - Vạn Hạnh - Mai Xuân Thưởng - Võ Trường Toản (Khu B7)
 tags:
 - Quy hoạch phân khu

@@ -1,5 +1,5 @@
 ---
-date: 2018-03-01
+date: 2019-03-01
 title: Quy định lộ giới và các chỉ tiêu kiến trúc chủ yếu về quản lý quy hoạch, xây dựng đối với nhà ở, công trình riêng lẻ trên địa bàn thành phố Đà Lạt, tỉnh Lâm Đồng
 tags:
 - Quy hoạch phân khu

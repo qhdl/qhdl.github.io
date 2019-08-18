@@ -1,5 +1,5 @@
 ---
-date: 2018-01-24
+date: 2019-01-24
 title: Điều chỉnh quy hoạch chung thành phố Đà Lạt đến năm 2030
 tags:
 - ĐIỀU CHỈNH QUY HOẠCH

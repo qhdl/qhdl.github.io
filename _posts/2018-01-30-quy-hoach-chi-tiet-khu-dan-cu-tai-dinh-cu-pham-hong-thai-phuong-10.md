@@ -1,5 +1,5 @@
 ---
-date: 2018-01-30
+date: 2019-01-30
 title: Quy hoạch chi tiết khu dân cư - tái định cư Phạm Hồng Thái, phường 10
 tags:
 - Quy hoạch phân khu

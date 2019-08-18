@@ -1,5 +1,5 @@
 ---
-date: 2018-03-06
+date: 2019-03-06
 title: Quy hoạch phân khu Khu vực Khe Sanh - Hùng Vương - Hoàng Hoa Thám (Khu B1), phường 10, thành phố Đà Lạt
 tags:
 - Quy hoạch phân khu

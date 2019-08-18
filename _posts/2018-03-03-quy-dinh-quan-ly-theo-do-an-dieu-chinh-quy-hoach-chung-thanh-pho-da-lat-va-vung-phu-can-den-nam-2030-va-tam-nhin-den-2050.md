@@ -1,5 +1,5 @@
 ---
-date: 2018-03-03
+date: 2019-03-03
 title: Quy định quản lý theo đồ án điều chỉnh Quy hoạch chung thành phố Đà Lạt và vùng phụ cận đến năm 2030 và tầm nhìn đến 2050
 tags:
 - Quy hoạch phân khu

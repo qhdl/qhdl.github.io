@@ -1,5 +1,5 @@
 ---
-date: 2018-01-20
+date: 2019-01-20
 title: Quy hoạch phân khu khu vực Nguyên Tử Lực - Trần Đại Nghĩa, Phường 8 (Khu A11)
 tags:
 - Quy hoạch phân khu

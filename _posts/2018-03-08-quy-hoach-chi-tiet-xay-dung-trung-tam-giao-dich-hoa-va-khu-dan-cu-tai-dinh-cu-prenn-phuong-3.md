@@ -1,5 +1,5 @@
 ---
-date: 2018-03-08
+date: 2019-03-08
 title: Quy hoạch chi tiết xây dựng trung tâm giao dịch hoa và khu dân cư - tái định cư Prenn, phường 3
 tags:
 - Quy hoạch phân khu

@@ -1,5 +1,5 @@
 ---
-date: 2018-01-28
+date: 2019-01-28
 title: Quy hoạch chi tiết khu dân cư - tái định cư 5B, phường 3, phường 4
 tags:
 - Quy hoạch phân khu

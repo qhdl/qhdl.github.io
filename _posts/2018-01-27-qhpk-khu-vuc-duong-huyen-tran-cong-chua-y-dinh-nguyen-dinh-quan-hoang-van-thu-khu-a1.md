@@ -1,5 +1,5 @@
 ---
-date: 2018-01-27
+date: 2019-01-27
 title: QHPK khu vực đường Huyền Trân Công Chúa - Y Dinh - Nguyễn Đình Quân - Hoàng Văn Thụ (Khu A1) và khu vực đường Huyền Trân Công Chúa - Hoàng Văn Thụ - Ngô Thì Sỹ - Trần Lê (Khu A2) phường 4, phường 5, thành phố Đà Lạt
 tags:
 - Quy hoạch phân khu

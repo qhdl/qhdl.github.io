@@ -1,5 +1,5 @@
 ---
-date: 2018-03-02
+date: 2019-03-02
 title: Quy hoạch chi tiết Nguyên Tử Lực - Trần Anh Tông, phường 8
 tags:
 - Quy hoạch phân khu
