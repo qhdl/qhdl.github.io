@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: 2018-01-08-quy-hoạch-phan-khu-khu-vục-duong-phu-dỏng-thien-vuong-vạn-hạnh-mai-xuan-thuỏng-võ-truong-toản-khu-b7
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/duong-phu-dỏng-thien-vuong-vạn-hạnh-mai-xuan-thuỏng-võ-truong-toản-khu-b7.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="840" height="680"></iframe>

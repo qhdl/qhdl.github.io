@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030.png
 ---
 
 <p> </p>

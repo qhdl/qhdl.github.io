@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-thung-lung-hong-suoi-cat-phuong-4-khu-a4
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-phan-khu-khu-thung-lung-hong-suoi-cat-phuong-4-khu-a4.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1UPgoGesdzNVZ_r9mqSVngirjq9TYb3ds/preview" width="840" height="680"></iframe>

@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-pham-hong-thai-phuong-10
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-pham-hong-thai-phuong-10.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1ARGlsfqD50cbk9zY3LWdjEN5Qnibjae0/preview" width="840" height="680"></iframe>

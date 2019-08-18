@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-chi-tiet-trieu-viet-vuong-an-binh
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-chi-tiet-trieu-viet-vuong-an-binh.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1d2Tq2pqbAyoCNC4yBJadY5lWQhdKpnzx/preview" width="840" height="680"></iframe>

@@ -5,7 +5,7 @@ tags:
 - Dự Thảo
 author: Lap Nguyen
 key: nhiem-vu-lap-quy-hoach-chi-tiet-lang-hoa-xuan-thanh-xa-xuan-tho
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/nhiem-vu-lap-quy-hoach-chi-tiet-lang-hoa-xuan-thanh-xa-xuan-tho.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1k4--sRfz3wGi-WfvpHYfclXKTzCqidqx/preview" width="840" height="680"></iframe>

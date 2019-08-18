@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: qhpk-khu-vuc-duong-huyen-tran-cong-chua-y-dinh-nguyen-dinh-quan-hoang-van-thu-khu-a1
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/qhpk-khu-vuc-duong-huyen-tran-cong-chua-y-dinh-nguyen-dinh-quan-hoang-van-thu-khu-a1.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1vjdBxcwBbwWh04AhxB2014R9s1zjjO41/preview" width="840" height="680"></iframe>

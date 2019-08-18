@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: trung-tam-van-hoa-the-duc-the-thao-tinh-lam-dong
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/trung-tam-van-hoa-the-duc-the-thao-tinh-lam-dong.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1nzDEUbZHp8KSOEPKF3beIDcwmDey6-5t/preview" width="840" height="680"></iframe>

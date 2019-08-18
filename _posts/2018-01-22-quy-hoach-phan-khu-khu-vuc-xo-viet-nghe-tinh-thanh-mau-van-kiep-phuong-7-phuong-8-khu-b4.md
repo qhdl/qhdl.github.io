@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-vuc-xo-viet-nghe-tinh-thanh-mau-van-kiep-phuong-7-phuong-8-khu-b4
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-xo-viet-nghe-tinh-thanh-mau-van-kiep-phuong-7-phuong-8-khu-b4.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1hH25Xd7XyQaVpxJd8WTek-Lxhs9pvOmK/preview" width="840" height="680"></iframe>

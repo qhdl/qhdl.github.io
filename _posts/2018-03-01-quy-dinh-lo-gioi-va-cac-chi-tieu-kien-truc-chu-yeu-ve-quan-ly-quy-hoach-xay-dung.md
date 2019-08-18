@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-dinh-lo-gioi-va-cac-chi-tieu-kien-truc-chu-yeu-ve-quan-ly-quy-hoach-xay-dung
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-chinh-trang.jpg
 ---
 
 <iframe src="https://drive.google.com/file/d/1H8nzUc-sLtMepWFEEeznh-1u2QLoHs3s/preview" width="840" height="680"></iframe>

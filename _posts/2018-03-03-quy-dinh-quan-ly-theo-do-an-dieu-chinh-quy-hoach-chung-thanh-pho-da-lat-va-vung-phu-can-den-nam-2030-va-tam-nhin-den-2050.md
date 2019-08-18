@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-dinh-quan-ly-theo-do-an-dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-va-vung-phu-can-den-nam-2030-va-tam-nhin-den-2050
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/QH-2010.jpg
 ---
 
 <iframe src="https://drive.google.com/file/d/149rXDXTep6L2LjdrBkMZeGHlPu_DfJND/preview" width="840" height="680"></iframe>

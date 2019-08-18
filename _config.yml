@@ -250,7 +250,7 @@ defaults:
         theme: dark
         background_color: '#203028'
         background_image:
-          gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+          gradient: 'linear-gradient(135deg, rgba(79, 61, 11 , .4), rgba(150, 113, 9, .4))'
       sharing: true
       license: false
       category: post

@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: 2018-01-20-quy-hoach-phan-khu-khu-vuc-tran-phu-dao-duy-tu-nguyen-trung-truc-ha-huy-tap-phuong-3-khu-a5
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-tran-phu-dao-duy-tu-nguyen-trung-truc-ha-huy-tap-phuong-3-khu-a5.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1KWkLv5lVm9vHlWfaj-P80LpY15IICQIn/preview" width="840" height="680"></iframe>

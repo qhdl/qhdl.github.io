@@ -6,7 +6,7 @@ tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-vuc-phu-dong-thien-vuong-mai-anh-dao-van-hanh-mai-xuan-thuong-phuong-8-khu-b5
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-phu-dong-thien-vuong-mai-anh-dao-van-hanh-mai-xuan-thuong-phuong-8-khu-b5.png
 ---
 
 <iframe src="https://drive.google.com/file/d/163EAmF1OjBA-r2JGTk1G94mw7tTN0Caq/preview" width="840" height="680"></iframe>
