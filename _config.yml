@@ -20,7 +20,7 @@ text_skin: default
 # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-bright
 # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://qhdl.github.io
+url     : https://quyhoachdalat.com
 # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : /
 # does not include hostname
