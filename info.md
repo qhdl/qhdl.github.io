@@ -2,6 +2,15 @@
 layout: article
 titles: THÔNG TIN SỬ DỤNG WEBSITE
 key: page-info
+header:
+    theme: dark
+    background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
+article_header:
+    type: overlay
+    theme: dark
+    background_color: '#203028'
+    background_image:
+        gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
 ---
 Quy hoạch là việc sắp xếp, phân bố không gian các hoạt động kinh tế – xã hội, quốc phòng, an ninh gắn với phát triển kết cấu hạ tầng, sử dụng tài nguyên và bảo vệ môi trường trên lãnh thổ xác định để sử dụng hiệu quả các nguồn lực của đất nước phục vụ mục tiêu phát triển bền vững cho thời kỳ xác định.
 
@@ -21,4 +30,10 @@ là việc phân chia và xác định chỉ tiêu sử dụng đất quy hoạc
 Với mong muốn để người dân am hiểu về quy hoạch Đà Lạt, trang Web giới thiệu các đồ án quy hoạch: quy hoạch chung, quy hoạch phân khu, quy hoạch chi tiết trên địa bàn để mọi người tham khảo, nghiên cứu trong quá trình sử dụng, xin cấp phép xây dựng, đầu tư xây dựng theo các khu vực quy hoạch được phê duyệt, … Hơn nữa tránh được sự nhầm lẫn đáng tiếc trong việc sang nhượng, mua bán đất đai trên địa bàn thành phố Đà Lạt.
 
 Trang web cũng sẽ công khai các dự thảo về nhiệm vụ quy hoạch chi tiết/phân khu, các dự thảo đồ án quy hoạch phân khu/chi tiết để lấy ý kiến đóng góp rộng rãi của cộng đồng dân cư của khu vực quy hoạch và các cá nhân, đơn vị, tổ chức có liên quan; nhằm tăng cao tính khả thi sau khi quy hoạch đã được cấp có thẩm quyền phê duyệt.
+
+### Mọi chi tiết xin liên hệ
+Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt, tỉnh Lâm Đồng
+Địa chỉ: Tầng 2, Khối A, số 29 đường Ba tháng Tư, phường 3, thành phố Đà Lạt, tỉnh Lâm Đồng.
+*Nguyễn Xuân Lập*
+*0.913 188 648*
 

@@ -5,7 +5,7 @@ tags:
 - Dự Thảo
 author: Lap Nguyen
 key: nhiem-vu-quy-hoach-chi-tiet-lang-hoa-van-thanh
-cover: /assets/images/posts/do-an-quy-hoach.jpg
+cover: /assets/images/posts/nhiem-vu-quy-hoach-chi-tiet-lang-hoa-van-thanh.png
 ---
 
 <iframe src="https://drive.google.com/file/d/19s901K17F7azAdPiCX9n_03T4UrKt5S2/preview" width="840" height="680"></iframe>
