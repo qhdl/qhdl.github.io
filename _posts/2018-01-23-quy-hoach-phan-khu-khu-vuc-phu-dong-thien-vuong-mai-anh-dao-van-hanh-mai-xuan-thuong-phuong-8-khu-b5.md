@@ -1,6 +1,6 @@
 ---
 date: 2018-01-23
-title: QUY HOẠCH PHÂN KHU KHU VỰC PHÙ ĐỔNG THIÊN VƯƠNG - MAI ANH ĐÀO - VẠN HẠNH - MAI XUÂN THƯỞNG, PHƯỜNG 8 (KHU B5)
+title: Quy hoạch phân khu khu vực Phù Đổng Thiên Vương - Mai Anh Đào - Vạn Hạnh - Mai Xuân Thưởng, Phường 8 (Khu B5)
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt

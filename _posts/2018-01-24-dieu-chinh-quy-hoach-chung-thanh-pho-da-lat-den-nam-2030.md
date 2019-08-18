@@ -1,6 +1,6 @@
 ---
 date: 2018-01-24
-title: ĐIỀU CHỈNH QUY HOẠCH CHUNG THÀNH PHỐ ĐÀ LẠT ĐẾN NĂM 2030
+title: Điều chỉnh quy hoạch chung thành phố Đà Lạt đến năm 2030
 tags:
 - ĐIỀU CHỈNH QUY HOẠCH
 - Quy hoạch đã được duyệt

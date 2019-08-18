@@ -1,6 +1,6 @@
 ---
 date: 2018-01-20
-title: QUY HOẠCH PHÂN KHU KHU VỰC TRẦN PHÚ - ĐÀO DUY TỪ - NGUYỄN TRUNG TRỰC - HÀ HUY TẬP, PHƯỜNG 3 (KHU A5)
+title: Quy hoạch phân khu khu vực Trần Phú - Đào Duy Từ - Nguyễn Trung Trực - Hà Huy Tập, Phường 3 (Khu A5)
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt

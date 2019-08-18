@@ -1,6 +1,6 @@
 ---
 date: 2018-01-25
-title: NHIỆM VỤ LẬP QUY HOẠCH CHI TIẾT LÀNG HOA XUÂN THÀNH, XÃ XUÂN THỌ
+title: Nhiệm vụ lập quy hoạch chi tiết làng hoa Xuân Thành, xã Xuân Thọ
 tags:
 - Dự Thảo
 author: Lap Nguyen

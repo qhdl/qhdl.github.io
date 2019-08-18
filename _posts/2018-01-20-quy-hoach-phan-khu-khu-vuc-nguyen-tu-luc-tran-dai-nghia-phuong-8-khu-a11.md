@@ -1,6 +1,6 @@
 ---
 date: 2018-01-20
-title: QUY HOẠCH PHÂN KHU KHU VỰC NGUYÊN TỬ LỰC - TRẦN ĐẠI NGHĨA, PHƯỜNG 8 (KHU A11)
+title: Quy hoạch phân khu khu vực Nguyên Tử Lực - Trần Đại Nghĩa, Phường 8 (Khu A11)
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt

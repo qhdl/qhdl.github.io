@@ -1,6 +1,6 @@
 ---
 date: 2018-01-21
-title: QUY HOẠCH PHÂN KHU KHU THUNG LŨNG HỒNG - SUỐI CÁT, PHƯỜNG 4 (KHU A4)
+title: Quy hoạch phân khu khu thung lũng Hồng - Suối Cát, Phường 4 (Khu A4)
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt

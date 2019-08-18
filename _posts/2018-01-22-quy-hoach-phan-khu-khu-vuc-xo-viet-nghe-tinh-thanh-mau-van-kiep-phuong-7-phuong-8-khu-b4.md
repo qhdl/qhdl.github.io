@@ -1,6 +1,6 @@
 ---
 date: 2018-01-22
-title: QUY HOẠCH PHÂN KHU KHU VỰC XÔ VIẾT NGHỆ TĨNH - THÁNH MẪU - VẠN KIẾP, PHƯỜNG 7, PHƯỜNG 8 (KHU B4)
+title: Quy hoạch phân khu khu vực Xô Viết Nghệ Tĩnh - Thánh Mẫu - Vạn Kiếp, Phường 7, Phường 8 (Khu B4)
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
