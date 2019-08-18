@@ -1,13 +1,13 @@
 header:
   - titles:
-      en      : &EN       Thông tin
-    url: /info.html
-  - titles:
       en      : &EN       Quy hoạch
     url: /archive.html
   - titles:
-      en      : &EN       Về Chúng Tôi
+      en      : &EN       Giới thiệu
     url: /about.html
+  - titles:
+      en      : &EN       Thông tin - Liên hệ
+    url: /info.html
   - titles:
        en      : &EN       Nhận tin
     url: /feed.xml
