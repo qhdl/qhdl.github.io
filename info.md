@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: THÔNG TIN SỬ DỤNG WEBSITE
+title: Thông tin liên hệ
 key: page-info
 header:
     theme: dark
