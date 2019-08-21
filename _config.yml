@@ -115,7 +115,8 @@ paginate_path: /page:num
 
 ## => Sources
 ##############################
-sources: # bootcdn (default), unpkg
+sources: unpkg
+# bootcdn (default), unpkg
 
 
 ## => Sharing
