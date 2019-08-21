@@ -228,21 +228,23 @@ defaults:
   ## home
   # - scope:
   #     path: ""
-    values:
-      layout: articles
-      # header:
-      #   theme: dark
-      #   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
-      articles:
-        type: grid
-        # excerpt_type: html
+  #   values:
+  #     layout: articles
+  #     # header:
+  #     #   theme: dark
+  #     #   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
+  #     articles:
+  #       type: grid
+  #       # excerpt_type: html
 
   ## Post
   - scope:
       path: ""
       type: posts
     values:
-      layout: article
+      layout: articles
+      articles:
+          type: grid
       header:
         theme: dark
         background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
