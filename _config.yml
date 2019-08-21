@@ -226,9 +226,8 @@ exclude:
 
 defaults:
   ## home
-  - scope:
-      path: ""
-      type: home
+  # - scope:
+  #     path: ""
     values:
       layout: articles
       # header:
