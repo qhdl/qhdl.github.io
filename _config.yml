@@ -228,6 +228,7 @@ defaults:
   ## home
   - scope:
       path: ""
+      type: home
     values:
       layout: articles
       # header:
