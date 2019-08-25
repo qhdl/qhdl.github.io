@@ -2,6 +2,7 @@
   <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 {%- elsif include.theme == 'light' -%}
   <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+    {%- include advertisements.html -%}
 {%- else -%}
   <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 {%- endif -%}
