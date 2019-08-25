@@ -12,6 +12,8 @@ article_header:
     background_image:
         gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
 ---
+{% include advertisements.html %}
+
 Quy hoạch là việc sắp xếp, phân bố không gian các hoạt động kinh tế – xã hội, quốc phòng, an ninh gắn với phát triển kết cấu hạ tầng, sử dụng tài nguyên và bảo vệ môi trường trên lãnh thổ xác định để sử dụng hiệu quả các nguồn lực của đất nước phục vụ mục tiêu phát triển bền vững cho thời kỳ xác định.
 
 Quy hoạch xây dựng là việc tổ chức không gian của đô thị, nông thôn và khu chức năng đặc thù; tổ chức hệ thống công trình hạ tầng kỹ thuật, hạ tầng xã hội; tạo lập môi trường cho người dân sống tại các vùng lãnh thổ, đảm bảo kết hợp hài hòa giữa lợi ích quốc gia với lợi ích cộng đồng, đáp ứng mục tiêu phát triển kinh tế – xã hội, quốc phòng, an ninh, bảo vệ môi trường, ứng phó với biến đổi khí hậu. Quy hoạch xây dựng được thể hiện thông qua đồ án quy hoạch xây dựng gồm sơ đồ, bản vẽ, mô hình và thuyết minh.
