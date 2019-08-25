@@ -40,5 +40,5 @@ Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt, tỉn
 *Nguyễn Xuân Lập*
 
 *0.913 188 648*
-{% include advertisements.html %}
+{%- include advertisements.html -%}
 
