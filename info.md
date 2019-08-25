@@ -12,7 +12,6 @@ article_header:
     background_image:
         gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
 ---
-{% include advertisements.html %}
 
 Quy hoạch là việc sắp xếp, phân bố không gian các hoạt động kinh tế – xã hội, quốc phòng, an ninh gắn với phát triển kết cấu hạ tầng, sử dụng tài nguyên và bảo vệ môi trường trên lãnh thổ xác định để sử dụng hiệu quả các nguồn lực của đất nước phục vụ mục tiêu phát triển bền vững cho thời kỳ xác định.
 
