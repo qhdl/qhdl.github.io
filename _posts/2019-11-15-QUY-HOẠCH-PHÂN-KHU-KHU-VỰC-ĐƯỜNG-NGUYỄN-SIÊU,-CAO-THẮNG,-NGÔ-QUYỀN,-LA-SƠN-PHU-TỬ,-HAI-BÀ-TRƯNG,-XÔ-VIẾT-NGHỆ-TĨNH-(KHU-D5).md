@@ -12,6 +12,7 @@ cover: /assets/images/posts/QUY-HOẠCH-PHÂN-KHU-KHU-VỰC-ĐƯỜNG-NGUYỄN
 <iframe src="https://drive.google.com/file/d/1tPCvuISeQgJPhjjMa-sdC6RL36WGfy1A/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1_ao_bFCMAyqdKSM3jJRJJRdQoUWydAL7/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1SSaB-wz7arzBghsgKuVVh8OzaV7C1CNT/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1j2L58qt2OMAkLtJZDoSFiYk7adYVLT0i/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
