@@ -1,12 +1,12 @@
 ---
 date: 2020-05-05
-title: QuyQuy hoạch phân khu Khu vực D4 Trần Văn Côi, Nguyễn An Ninh, Ngô Quyền, Cao Thắng, P5,6,7
+title: Quy hoạch phân khu Khu vực D4 Trần Văn Côi, Nguyễn An Ninh, Ngô Quyền, Cao Thắng, P5,6,7
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
-key: QuyQuy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7
-cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7.png
+key: Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7
+cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7.png.png
 ---
 <iframe src="https://drive.google.com/file/d/1nEvvLo9lQwol7sVA7Fh5IxDzGZNwYgcJ/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/15THXkIb_5tIBnv3aJxjd45uviTkrDrOp/preview" width="840" height="680"></iframe>
