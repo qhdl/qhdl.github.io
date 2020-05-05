@@ -1,6 +1,6 @@
 ---
 date: 2020-05-05
-title: Quy hoạch phân khu Khu vực D4 Trần Văn Côi, Nguyễn An Ninh, Ngô Quyền, Cao Thắng, P5,6,7
+title: Dự thảo đồ án quy hoạch phân khu Khu vực D4 Trần Văn Côi, Nguyễn An Ninh, Ngô Quyền, Cao Thắng, P5,6,7
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
