@@ -9,7 +9,7 @@ key: Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô
 cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7.png.png
 ---
 <iframe src="https://drive.google.com/file/d/1nEvvLo9lQwol7sVA7Fh5IxDzGZNwYgcJ/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/15THXkIb_5tIBnv3aJxjd45uviTkrDrOp/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1rvgRZm_CvMHytGueQG95HFRrlVeKudfx/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1FzUX0XrwafdD5Loc2EtkDEJMbyEKx-mW/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
