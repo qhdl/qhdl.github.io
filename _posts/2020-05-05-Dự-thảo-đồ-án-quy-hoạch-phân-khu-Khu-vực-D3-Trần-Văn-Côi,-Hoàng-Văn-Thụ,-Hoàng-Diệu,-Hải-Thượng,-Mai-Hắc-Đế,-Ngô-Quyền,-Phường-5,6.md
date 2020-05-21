@@ -12,6 +12,7 @@ cover: /assets/images/posts/Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vự
 <iframe src="https://drive.google.com/file/d/1UJua6TQhE3lEnZvxWifzIzgH8x9Feshg/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1-Ck37z28R8CGTvn_dlrr7AcCbSCSOe9n/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1k0zfQUC7P8EN1lsE5WMMHbI5-3S5qTs5/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1PYFRwt5qu3JUYy0CnpSP6sx23w5sPWND/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
