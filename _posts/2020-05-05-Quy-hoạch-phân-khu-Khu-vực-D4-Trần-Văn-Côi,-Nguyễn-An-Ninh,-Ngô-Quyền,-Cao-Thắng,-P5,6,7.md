@@ -11,6 +11,7 @@ cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,
 <iframe src="https://drive.google.com/file/d/1nEvvLo9lQwol7sVA7Fh5IxDzGZNwYgcJ/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1rvgRZm_CvMHytGueQG95HFRrlVeKudfx/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1FzUX0XrwafdD5Loc2EtkDEJMbyEKx-mW/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1neP56uqjclti8-MJr4UKkRgpEcpDG6FU/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
