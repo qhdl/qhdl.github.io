@@ -13,7 +13,7 @@ cover: /assets/images/posts/do-an-quy-hoach.jpg
 <!--more-->
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
-(Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
+(Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
 lập quy hoạch phân khu/chi tiết trên địa bàn thành phố Đà Lạt.
 
 Để biết thêm chi tiết, vui lòng liên hệ với Sở Xây dựng tỉnh Lâm Đồng, hoặc UBND thành phố Đà Lạt.

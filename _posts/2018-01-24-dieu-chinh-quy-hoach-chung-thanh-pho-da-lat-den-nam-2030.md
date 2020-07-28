@@ -325,6 +325,6 @@ cover: /assets/images/posts/dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-
 <p> </p>
 <p> </p>
 <p><iframe src="https://drive.google.com/file/d/149rXDXTep6L2LjdrBkMZeGHlPu_DfJND/preview" width="640" height="480"></iframe></p>
-<p>Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi (Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ lập quy hoạch phân khu/chi tiết trên địa bàn thành phố Đà Lạt.</p>
+<p>Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ lập quy hoạch phân khu/chi tiết trên địa bàn thành phố Đà Lạt.</p>
 <p>Để biết thêm chi tiết, vui lòng liên hệ với Sở Xây dựng tỉnh Lâm Đồng, hoặc UBND thành phố Đà Lạt.</p>
 <p>Trang web không chịu trách nhiệm về các thông tin quy hoạch.</p>
