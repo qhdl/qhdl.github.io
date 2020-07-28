@@ -33,7 +33,7 @@ Với mong muốn để người dân am hiểu về quy hoạch Đà Lạt, tra
 Trang web cũng sẽ công khai các dự thảo về nhiệm vụ quy hoạch chi tiết/phân khu, các dự thảo đồ án quy hoạch phân khu/chi tiết để lấy ý kiến đóng góp rộng rãi của cộng đồng dân cư của khu vực quy hoạch và các cá nhân, đơn vị, tổ chức có liên quan; nhằm tăng cao tính khả thi sau khi quy hoạch đã được cấp có thẩm quyền phê duyệt.
 
 ### Mọi chi tiết xin liên hệ
-Trung tâm Phát triển hạ tầng kỹ thuật thành phố Đà Lạt, tỉnh Lâm Đồng
+Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt, tỉnh Lâm Đồng
 
 Địa chỉ: Tầng 2, Khối A, số 29 đường Ba tháng Tư, phường 3, thành phố Đà Lạt, tỉnh Lâm Đồng.
 
