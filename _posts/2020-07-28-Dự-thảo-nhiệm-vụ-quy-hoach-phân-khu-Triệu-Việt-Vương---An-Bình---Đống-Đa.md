@@ -2,6 +2,7 @@
 date: 2020-07-28
 title: Dự thảo nhiệm vụ quy hoach phân khu Triệu Việt Vương - An Bình - Đống Đa (Khu D2), Phường 3
 tags:
+- Dự Thảo
 author: Lap Nguyen
 key: Dự-thảo-nhiệm-vụ-quy-hoach-phân-khu-Triệu-Việt-Vương---An-Bình---Đống-Đa
 cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7.png.png
