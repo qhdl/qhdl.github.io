@@ -5,7 +5,7 @@ tags:
 - Dự Thảo
 author: Lap Nguyen
 key: Dự-thảo-nhiệm-vụ-quy-hoach-phân-khu-Triệu-Việt-Vương---An-Bình---Đống-Đa
-cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7.png.png
+cover: /assets/images/posts/qhpk-khu-vuc-duong-huyen-tran-cong-chua-y-dinh-nguyen-dinh-quan-hoang-van-thu-khu-a1.png
 ---
 
 <iframe src="https://drive.google.com/file/d/14iYYmeHd74a4O67FMKrZtOKW39mjBqRj/preview" width="840" height="680"></iframe>
