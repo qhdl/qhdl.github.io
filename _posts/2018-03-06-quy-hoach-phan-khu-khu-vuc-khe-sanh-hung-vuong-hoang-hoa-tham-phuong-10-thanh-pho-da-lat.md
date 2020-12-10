@@ -9,8 +9,14 @@ key: quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-tha
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-thanh-pho-da-lat.png
 ---
 <iframe src="https://drive.google.com/file/d/1A8t-JJtqEK5MvIx5XUefRCwAv45mJKVj/preview" width="840" height="680"></iframe>
-<!--more-->
+
 <iframe src="https://drive.google.com/file/d/1FOh9C3kueKijARO0SD8jEbeR_xcgU8z1/preview" width="840" height="680"></iframe>
+
+Cập nhật quy hoạch mới
+
+<iframe src="https://drive.google.com/file/d/1sdwYJQzlWQrafb36D5nYxk8IHPDHEvuD/preview" width="840" height="680"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1QGMOBFtTTYQuMJGkevWfDOAwaMUeurxT/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 

@@ -1,6 +1,6 @@
 ---
 date: 2020-12-10
-title: Quy Hoạch Phân Khu Khu Vực Hùng Vương - Trần Quý Cáp - Nguyễn Đình Chiểu - Phan Chu Trinh - Nam Hồ (B3)
+title: Quy Hoạch Phân Khu Khu Vực Hùng Vương - Trần Quý Cáp - Nguyễn Đình Chiểu - Phan Chu Trinh - Nam Hồ (Khu B3, P9, P11)
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
