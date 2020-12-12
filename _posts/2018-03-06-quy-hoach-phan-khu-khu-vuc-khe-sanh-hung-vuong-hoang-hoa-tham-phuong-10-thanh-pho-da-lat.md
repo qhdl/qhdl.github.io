@@ -14,7 +14,7 @@ cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang
 
 Cập nhật quy hoạch mới
 
-<iframe src="https://drive.google.com/file/d/1sdwYJQzlWQrafb36D5nYxk8IHPDHEvuD/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1hXfaUSMcOZL8cWg00IITi0iyIh1C6a0k/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1QGMOBFtTTYQuMJGkevWfDOAwaMUeurxT/preview" width="840" height="680"></iframe>
 
