@@ -1,6 +1,6 @@
 ---
 date: 2021-01-06
-title: Quy Hoạch Phân Khu Khu Vực Hà Huy Tập - Ba Tháng Tư - Trần Hưng Đạo (Khu A7) - P3
+title: Quy Hoạch Phân Khu Khu Vực Hà Huy Tập - Đống Đa - Ba Tháng Tư - Trần Hưng Đạo (Khu A7) - P3
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
