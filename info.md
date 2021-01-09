@@ -40,5 +40,4 @@ Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt, tỉnh L
 *Nguyễn Xuân Lập*
 
 *0.913 188 648*
-{% include advertisements.html %}
 
