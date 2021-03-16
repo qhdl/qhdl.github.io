@@ -1,6 +1,6 @@
 ---
 date: 2021-03-16
-title: Quy hoạch phân khu Khu vực đường Hùng Vương – Trần Thái Tông – Trần Quang Diệu, khu B2, phường 9,10,11, thành phố Đà Lạt
+title: Quy hoạch phân khu Khu vực đường Hùng Vương – Trần Thái Tông – Trần Quang Diệu (khu B2), phường 9,10,11, thành phố Đà Lạt
 tags:
 - Quy hoạch phân khu
 - Quy hoạch đã được duyệt
