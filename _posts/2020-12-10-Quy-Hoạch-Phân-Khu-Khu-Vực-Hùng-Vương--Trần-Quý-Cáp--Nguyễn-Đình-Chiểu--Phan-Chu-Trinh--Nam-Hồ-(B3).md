@@ -8,8 +8,9 @@ author: Lap Nguyen
 key: Quy-Hoạch-Phân-Khu-Khu-Vực-Hùng-Vương--Trần-Quý-Cáp--Nguyễn-Đình-Chiểu--Phan-Chu-Trinh--Nam-Hồ-(B3)
 cover: /assets/images/posts/Hùng-Vương--Trần-Quý-Cáp--Nguyễn-Đình-Chiểu--Phan-Chu-Trinh--Nam-Hồ.png
 ---
-
-<iframe src="https://drive.google.com/file/d/1klAgfVoszQFWs3LwXcwPb-Q40FUSYPap/preview" width="840" height="680"></iframe>
+<!-- 
+<iframe src="https://drive.google.com/file/d/1klAgfVoszQFWs3LwXcwPb-Q40FUSYPap/preview" width="840" height="680"></iframe> -->
+<iframe src="https://drive.google.com/file/d/1VTiwrN0gmA2dpXPKI93VdCGA3ensY6eE/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1jZVIEoJawSVo1B1bf0kwbzBdJ4wstcDt/preview" width="840" height="680"></iframe>
 
