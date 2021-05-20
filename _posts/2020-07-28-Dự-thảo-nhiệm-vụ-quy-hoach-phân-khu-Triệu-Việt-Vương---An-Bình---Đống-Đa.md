@@ -6,6 +6,7 @@ tags:
 author: Lap Nguyen
 key: Dự-thảo-nhiệm-vụ-quy-hoach-phân-khu-Triệu-Việt-Vương---An-Bình---Đống-Đa
 cover: /assets/images/posts/qhpk-khu-vuc-duong-huyen-tran-cong-chua-y-dinh-nguyen-dinh-quan-hoang-van-thu-khu-a1.png
+published: true
 ---
 
 <iframe src="https://drive.google.com/file/d/14iYYmeHd74a4O67FMKrZtOKW39mjBqRj/preview" width="840" height="680"></iframe>
