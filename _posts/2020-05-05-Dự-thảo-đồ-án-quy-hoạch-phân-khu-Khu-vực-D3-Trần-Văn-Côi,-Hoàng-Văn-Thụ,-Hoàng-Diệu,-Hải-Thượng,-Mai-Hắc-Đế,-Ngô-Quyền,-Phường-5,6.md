@@ -7,6 +7,7 @@ tags:
 author: Lap Nguyen
 key: Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-D3-Trần-Văn-Côi,-Hoàng-Văn-Thụ,-Hoàng-Diệu,-Hải-Thượng,-Mai-Hắc-Đế,-Ngô-Quyền,-Phường-5,6
 cover: /assets/images/posts/Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-D3-Trần-Văn-Côi,-Hoàng-Văn-Thụ,-Hoàng-Diệu,-Hải-Thượng,-Mai-Hắc-Đế,-Ngô-Quyền,-Phường-5,6.png
+published: true
 ---
 
 <iframe src="https://drive.google.com/file/d/1UJua6TQhE3lEnZvxWifzIzgH8x9Feshg/preview" width="840" height="680"></iframe>

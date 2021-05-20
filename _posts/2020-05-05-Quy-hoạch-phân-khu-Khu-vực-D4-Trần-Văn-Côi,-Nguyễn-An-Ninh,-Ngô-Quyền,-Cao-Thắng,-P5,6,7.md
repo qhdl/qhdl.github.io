@@ -7,6 +7,7 @@ tags:
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7
 cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7.png.png
+published: true
 ---
 <iframe src="https://drive.google.com/file/d/1nEvvLo9lQwol7sVA7Fh5IxDzGZNwYgcJ/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1rvgRZm_CvMHytGueQG95HFRrlVeKudfx/preview" width="840" height="680"></iframe>
