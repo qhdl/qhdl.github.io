@@ -6,7 +6,7 @@ tags:
 - Dự Thảo
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-tỉ-lệ-1/2000-Khu-đô-thị-đường-Nguyễn-Hoàng-và-hồ-Vạn-Kiếp,-phường-7-và-phường-8
-# cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-quốc-lộ-20---Nam-Hồ-(Khu-C3),-Phường-10-và-Phường-11,-thành-phố-Đà-Lạt.png
+cover: /assets/images/posts/dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030.png
 ---
 
 <iframe src="https://drive.google.com/file/d/1cwdzWL2e8JWSRDLYIZzibgd61dKhxzCF/preview" width="840" height="680"></iframe>
