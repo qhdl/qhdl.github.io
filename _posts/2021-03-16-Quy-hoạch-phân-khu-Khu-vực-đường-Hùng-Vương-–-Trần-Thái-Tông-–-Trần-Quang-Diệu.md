@@ -9,6 +9,8 @@ key: 2021-03-16-Quy-hoạch-phân-khu-Khu-vực-đường-Hùng-Vương-–-Tr�
 cover: /assets/images/posts/2021-03-16-Quy-hoạch-phân-khu-Khu-vực-đường-Hùng-Vương-–-Trần-Thái-Tông-–-Trần-Quang-Diệu.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1tF0PZODilTUycXjYl8WIgbc0x-qa3b_S/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/16vSb5vKmq6ox_2r9GpKVsRLW4TO4ASkS/preview" width="840" height="680"></iframe>

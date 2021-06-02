@@ -9,6 +9,8 @@ key: Quy-Hoạch-Phân-Khu-Khu-Vực-Huỳnh-Tấn-Phát-Suối-Nam-Hồ-(Khu-C1
 cover: /assets/images/posts/Quy-Hoạch-Phân-Khu-Khu-Vực-Huỳnh-Tấn-Phát-Suối-Nam-Hồ-(Khu-C1)-Phường-11.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1Q6NciyPWD6kZOeGoR8vWwoCE5G32qRhN/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1cCQ9XbRGLRxSl0yyVIxOkDX45Ob5X3C0/preview" width="840" height="680"></iframe>

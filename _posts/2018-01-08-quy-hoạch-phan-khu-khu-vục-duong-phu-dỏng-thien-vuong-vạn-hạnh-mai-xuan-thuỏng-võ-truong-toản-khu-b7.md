@@ -9,6 +9,8 @@ key: 2018-01-08-quy-hoạch-phan-khu-khu-vục-duong-phu-dỏng-thien-vuong-vạ
 cover: /assets/images/posts/duong-phu-dỏng-thien-vuong-vạn-hạnh-mai-xuan-thuỏng-võ-truong-toản-khu-b7.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1NjSP5PxRPpKUBzZBFVogiFsIdECoJxgE/preview" width="840" height="680"></iframe>
 <!--more-->
 <iframe src="https://drive.google.com/file/d/1MMVLwnkMomKJ8q6leZCcA94O8wAHTXz9/preview" width="840" height="680"></iframe>

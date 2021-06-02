@@ -8,6 +8,8 @@ key: nhiem-vu-quy-hoach-chi-tiet-lang-hoa-van-thanh
 cover: /assets/images/posts/nhiem-vu-quy-hoach-chi-tiet-lang-hoa-van-thanh.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/19s901K17F7azAdPiCX9n_03T4UrKt5S2/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1DaPtogXekB8F-XgXkKlUWm2VzxrhNZm9/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/16hmjLPPVkN12nArSAtAfY8tZZYcL0M7N/preview" width="840" height="680"></iframe>

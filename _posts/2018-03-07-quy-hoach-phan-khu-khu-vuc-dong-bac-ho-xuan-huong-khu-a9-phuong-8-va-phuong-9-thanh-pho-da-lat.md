@@ -8,6 +8,8 @@ author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-vuc-dong-bac-ho-xuan-huong-khu-a9-phuong-8-va-phuong-9-thanh-pho-da-lat
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-dong-bac-ho-xuan-huong-khu-a9-phuong-8-va-phuong-9-thanh-pho-da-lat.png
 ---
+
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
 <iframe src="https://drive.google.com/file/d/1GvSRck1yCnhnjJt2ovT8julm4z1fx73A/preview" width="840" height="680"></iframe>
 <!--more-->
 <iframe src="https://drive.google.com/file/d/1T5pEkJViOI0Nx9WkBvpunF2SJ-B3xIWW/preview" width="840" height="680"></iframe>

@@ -9,6 +9,8 @@ key: Quy-Hoạch-Phân-Khu-Khu-Vực-Hà-Huy-Tập-Ba-Tháng-Tư-Trần-Hưng-Đ
 cover: /assets/images/posts/Quy-Hoạch-Phân-Khu-Khu-Vực-Hà-Huy-Tập-Ba-Tháng-Tư-Trần-Hưng-Đạo-(Khu-A7)-P3.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1DFjWvrFIMztaOZ1mQ0Nl7-0N0nBATaFo/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1WuRvGYOGqilEnli7wcO7_KL-wVYyz90o/preview" width="840" height="680"></iframe>

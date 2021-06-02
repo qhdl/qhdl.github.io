@@ -9,6 +9,8 @@ key: trung-tam-van-hoa-the-duc-the-thao-tinh-lam-dong
 cover: /assets/images/posts/trung-tam-van-hoa-the-duc-the-thao-tinh-lam-dong.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1nzDEUbZHp8KSOEPKF3beIDcwmDey6-5t/preview" width="840" height="680"></iframe>
 <!--more-->
 <iframe src="https://drive.google.com/file/d/1Vji4nDlvq7Ntr_NnEUH1DM1Zq7B9piNI/preview" width="840" height="680"></iframe>

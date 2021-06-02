@@ -9,6 +9,8 @@ key: quy-hoach-phan-khu-khu-vuc-xo-viet-nghe-tinh-thanh-mau-van-kiep-phuong-7-ph
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-xo-viet-nghe-tinh-thanh-mau-van-kiep-phuong-7-phuong-8-khu-b4.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1hH25Xd7XyQaVpxJd8WTek-Lxhs9pvOmK/preview" width="840" height="680"></iframe>
 <!--more-->
 <iframe src="https://drive.google.com/file/d/1lSbOngRsgVczoO-Bu51A_aQixxg86lJL/preview" width="840" height="680"></iframe>

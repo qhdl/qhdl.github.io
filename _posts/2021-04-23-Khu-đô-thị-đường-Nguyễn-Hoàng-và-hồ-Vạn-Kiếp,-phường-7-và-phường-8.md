@@ -9,6 +9,8 @@ key: Quy-hoạch-phân-khu-tỉ-lệ-1/2000-Khu-đô-thị-đường-Nguyễn-Ho
 cover: /assets/images/posts/dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1cwdzWL2e8JWSRDLYIZzibgd61dKhxzCF/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1i86MyO5Bx_E4EiOGAQ50qlYVVMFW8PJQ/preview" width="840" height="680"></iframe>

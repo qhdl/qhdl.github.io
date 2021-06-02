@@ -9,6 +9,8 @@ key: 2018-01-20-quy-hoach-phan-khu-khu-vuc-nguyen-tu-luc-tran-dai-nghia-phuong-8
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-nguyen-tu-luc-tran-dai-nghia-phuong-8-khu-a11.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/1KpLucYXue89bL3cKsTiqerayEXs9FTDI/preview" width="840" height="680"></iframe>
 <!--more-->
 <iframe src="https://drive.google.com/file/d/1VWcxxTl7Ect4DVjdPfEHw9rTpLDtJrm8/preview" width="840" height="680"></iframe>

@@ -9,6 +9,8 @@ key: quy-hoach-phan-khu-khu-vuc-phu-dong-thien-vuong-mai-anh-dao-van-hanh-mai-xu
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-phu-dong-thien-vuong-mai-anh-dao-van-hanh-mai-xuan-thuong-phuong-8-khu-b5.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+
 <iframe src="https://drive.google.com/file/d/163EAmF1OjBA-r2JGTk1G94mw7tTN0Caq/preview" width="840" height="680"></iframe>
 <!--more-->
 <iframe src="https://drive.google.com/file/d/1Z-J1rEM-o7uo9QLJAAGrQ4_wPqIVVIR1/preview" width="840" height="680"></iframe>
