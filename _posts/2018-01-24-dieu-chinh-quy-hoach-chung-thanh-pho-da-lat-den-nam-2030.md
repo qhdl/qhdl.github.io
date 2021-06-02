@@ -9,7 +9,7 @@ key: dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030
 cover: /assets/images/posts/dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <p> </p>
 <table style="height: 149px;" width="805">

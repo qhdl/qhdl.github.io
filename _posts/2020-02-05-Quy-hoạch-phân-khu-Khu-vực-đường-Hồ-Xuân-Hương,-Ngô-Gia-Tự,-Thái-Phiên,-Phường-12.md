@@ -9,7 +9,7 @@ key: Quy-hoạch-phân-khu-Khu-vực-đường-Hồ-Xuân-Hương,-Ngô-Gia-Tự
 cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-đường-Hồ-Xuân-Hương,-Ngô-Gia-Tự,-Thái-Phiên,-Phường-12.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/1DxjUCyHK_noEtLShWx9sfQ2tElxUwxAw/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1uGcrOqBNzjaewmleGEFILFWJ9qEOAfR9/preview" width="840" height="680"></iframe>

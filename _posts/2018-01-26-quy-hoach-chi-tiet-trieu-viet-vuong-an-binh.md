@@ -9,7 +9,7 @@ key: quy-hoach-chi-tiet-trieu-viet-vuong-an-binh
 cover: /assets/images/posts/quy-hoach-chi-tiet-trieu-viet-vuong-an-binh.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/1d2Tq2pqbAyoCNC4yBJadY5lWQhdKpnzx/preview" width="840" height="680"></iframe>
 <!--more-->

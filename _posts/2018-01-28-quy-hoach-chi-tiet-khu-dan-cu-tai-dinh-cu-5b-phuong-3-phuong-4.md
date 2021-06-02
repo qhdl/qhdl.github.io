@@ -9,7 +9,7 @@ key: quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-5b-phuong-3-phuong-4
 cover: /assets/images/posts/quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-5b-phuong-3-phuong-4.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/1akttoqbKvCF7UPMQnc0z_oWLcnoOPEu2/preview" width="840" height="680"></iframe>
 <!--more-->

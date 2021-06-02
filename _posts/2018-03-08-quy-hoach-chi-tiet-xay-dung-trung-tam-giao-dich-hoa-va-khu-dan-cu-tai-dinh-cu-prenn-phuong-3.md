@@ -9,7 +9,7 @@ key: quy-hoach-chi-tiet-xay-dung-trung-tam-giao-dich-hoa-va-khu-dan-cu-tai-dinh-
 cover: /assets/images/posts/quy-hoach-chi-tiet-xay-dung-trung-tam-giao-dich-hoa-va-khu-dan-cu-tai-dinh-cu-prenn-phuong-3.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/14hpct9Lg6oojwyCneVE2GLLO6wTSbCGW/preview" width="840" height="680"></iframe>
 <!--more-->

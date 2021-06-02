@@ -9,7 +9,7 @@ key: 2021-06-02-Quy-hoạch-phân-khu-Khu-vực-Nguyễn-Trung-Trực,-Triệu-V
 cover: /assets/images/posts/2021-06-02-Quy-hoạch-phân-khu-Khu-vực.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/1eMk-H7hhFj3NE7hpgYHZKzjJbo1-dAfd/preview" width="840" height="680"></iframe>
 

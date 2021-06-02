@@ -9,7 +9,7 @@ key: quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-tha
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-thanh-pho-da-lat.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 <iframe src="https://drive.google.com/file/d/1A8t-JJtqEK5MvIx5XUefRCwAv45mJKVj/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1FOh9C3kueKijARO0SD8jEbeR_xcgU8z1/preview" width="840" height="680"></iframe>

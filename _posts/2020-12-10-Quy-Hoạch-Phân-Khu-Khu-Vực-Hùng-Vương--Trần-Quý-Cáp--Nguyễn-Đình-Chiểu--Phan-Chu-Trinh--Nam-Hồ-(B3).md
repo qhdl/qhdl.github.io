@@ -9,7 +9,7 @@ key: Quy-Hoạch-Phân-Khu-Khu-Vực-Hùng-Vương--Trần-Quý-Cáp--Nguyễn-�
 cover: /assets/images/posts/Hùng-Vương--Trần-Quý-Cáp--Nguyễn-Đình-Chiểu--Phan-Chu-Trinh--Nam-Hồ.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 <!-- 
 <iframe src="https://drive.google.com/file/d/1klAgfVoszQFWs3LwXcwPb-Q40FUSYPap/preview" width="840" height="680"></iframe> -->
 <iframe src="https://drive.google.com/file/d/1VTiwrN0gmA2dpXPKI93VdCGA3ensY6eE/preview" width="840" height="680"></iframe>
