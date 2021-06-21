@@ -7,7 +7,7 @@ tags:
 author: Lap Nguyen
 key: QUY-HOẠCH-PHÂN-KHU-KHU-VỰC-ĐƯỜNG-NGUYỄN-SIÊU,-CAO-THẮNG,-NGÔ-QUYỀN,-LA-SƠN-PHU-TỬ,-HAI-BÀ-TRƯNG,-XÔ-VIẾT-NGHỆ-TĨNH-(KHU-D5)
 cover: /assets/images/posts/QUY-HOẠCH-PHÂN-KHU-KHU-VỰC-ĐƯỜNG-NGUYỄN-SIÊU,-CAO-THẮNG,-NGÔ-QUYỀN,-LA-SƠN-PHU-TỬ,-HAI-BÀ-TRƯNG,-XÔ-VIẾT-NGHỆ-TĨNH-(KHU-D5).png
-published: true
+published: false
 ---
 
 <iframe src="https://drive.google.com/file/d/1tPCvuISeQgJPhjjMa-sdC6RL36WGfy1A/preview" width="840" height="680"></iframe>

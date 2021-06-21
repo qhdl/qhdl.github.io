@@ -6,6 +6,7 @@ tags:
 author: Lap Nguyen
 key: nhiem-vu-lap-quy-hoach-chi-tiet-lang-hoa-xuan-thanh-xa-xuan-tho
 cover: /assets/images/posts/nhiem-vu-lap-quy-hoach-chi-tiet-lang-hoa-xuan-thanh-xa-xuan-tho.png
+published: false
 ---
 
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
