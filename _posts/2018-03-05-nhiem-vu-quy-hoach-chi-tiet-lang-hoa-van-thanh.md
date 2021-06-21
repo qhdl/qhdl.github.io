@@ -6,6 +6,7 @@ tags:
 author: Lap Nguyen
 key: nhiem-vu-quy-hoach-chi-tiet-lang-hoa-van-thanh
 cover: /assets/images/posts/nhiem-vu-quy-hoach-chi-tiet-lang-hoa-van-thanh.png
+published: false
 ---
 
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
