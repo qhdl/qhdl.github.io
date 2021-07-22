@@ -2,7 +2,6 @@
 date: 2019-01-24
 title: Điều chỉnh quy hoạch chung thành phố Đà Lạt đến năm 2030
 tags:
-- ĐIỀU CHỈNH QUY HOẠCH
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030

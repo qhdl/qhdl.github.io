@@ -2,7 +2,6 @@
 date: 2019-03-03
 title: Quy định quản lý theo đồ án điều chỉnh Quy hoạch chung thành phố Đà Lạt và vùng phụ cận đến năm 2030 và tầm nhìn đến 2050
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-dinh-quan-ly-theo-do-an-dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-va-vung-phu-can-den-nam-2030-va-tam-nhin-den-2050
