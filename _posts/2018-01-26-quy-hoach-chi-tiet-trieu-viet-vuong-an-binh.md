@@ -2,7 +2,7 @@
 date: 2019-01-26
 title: Quy hoạch chi tiết Triệu Việt Vương - An Bình
 tags:
-- Quy hoạch phân khu
+
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-chi-tiet-trieu-viet-vuong-an-binh

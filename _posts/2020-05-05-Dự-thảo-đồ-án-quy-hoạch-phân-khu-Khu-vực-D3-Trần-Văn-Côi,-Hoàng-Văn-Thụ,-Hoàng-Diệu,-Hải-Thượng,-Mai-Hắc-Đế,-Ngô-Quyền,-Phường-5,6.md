@@ -2,7 +2,7 @@
 date: 2020-05-05
 title: Dự thảo đồ án quy hoạch phân khu Khu vực D3 Trần Văn Côi, Hoàng Văn Thụ, Hoàng Diệu, Hải Thượng, Mai Hắc Đế, Ngô Quyền, Phường 5,6
 tags:
-- Quy hoạch phân khu
+
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-D3-Trần-Văn-Côi,-Hoàng-Văn-Thụ,-Hoàng-Diệu,-Hải-Thượng,-Mai-Hắc-Đế,-Ngô-Quyền,-Phường-5,6

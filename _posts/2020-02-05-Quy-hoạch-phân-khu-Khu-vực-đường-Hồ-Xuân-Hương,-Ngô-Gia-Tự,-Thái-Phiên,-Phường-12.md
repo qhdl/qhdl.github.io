@@ -2,7 +2,7 @@
 date: 2020-02-05
 title: Quy hoạch phân khu Khu vực đường Hồ Xuân Hương, Ngô Gia Tự, Thái Phiên, Phường 12
 tags:
-- Quy hoạch phân khu
+
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-Khu-vực-đường-Hồ-Xuân-Hương,-Ngô-Gia-Tự,-Thái-Phiên,-Phường-12

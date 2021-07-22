@@ -2,7 +2,7 @@
 date: 2021-04-23
 title: Quy hoạch phân khu tỉ lệ 1/2000 Khu đô thị đường Nguyễn Hoàng và hồ Vạn Kiếp, phường 7 và phường 8
 tags:
-- Quy hoạch phân khu
+
 - Dự Thảo Đồ Án Quy Hoạch
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-tỉ-lệ-1/2000-Khu-đô-thị-đường-Nguyễn-Hoàng-và-hồ-Vạn-Kiếp,-phường-7-và-phường-8

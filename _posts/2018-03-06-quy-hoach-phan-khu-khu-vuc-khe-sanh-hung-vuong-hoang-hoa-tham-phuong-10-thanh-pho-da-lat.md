@@ -2,7 +2,7 @@
 date: 2019-03-06
 title: Quy hoạch phân khu Khu vực Khe Sanh - Hùng Vương - Hoàng Hoa Thám (Khu B1), phường 10, thành phố Đà Lạt
 tags:
-- Quy hoạch phân khu
+
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-thanh-pho-da-lat

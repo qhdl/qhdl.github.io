@@ -2,7 +2,7 @@
 date: 2019-01-21
 title: Quy hoạch phân khu khu thung lũng Hồng - Suối Cát, Phường 4 (Khu A4)
 tags:
-- Quy hoạch phân khu
+
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-thung-lung-hong-suoi-cat-phuong-4-khu-a4

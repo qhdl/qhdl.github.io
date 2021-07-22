@@ -2,7 +2,7 @@
 date: 2019-01-20
 title: Quy hoạch phân khu khu vực Trần Phú - Đào Duy Từ - Nguyễn Trung Trực - Hà Huy Tập, Phường 3 (Khu A5)
 tags:
-- Quy hoạch phân khu
+
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: 2018-01-20-quy-hoach-phan-khu-khu-vuc-tran-phu-dao-duy-tu-nguyen-trung-truc-ha-huy-tap-phuong-3-khu-a5
