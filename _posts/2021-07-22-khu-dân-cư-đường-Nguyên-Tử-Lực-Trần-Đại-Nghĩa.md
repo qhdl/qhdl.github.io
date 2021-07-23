@@ -18,6 +18,8 @@ Nhiệm vụ điều chỉnh quy hoạch phân khu, khu dân cư đường Nguy�
 
 <iframe src="https://drive.google.com/file/d/1filfSH85a03LvYXsgIAQCZHmB68PW0X1/preview" width="840" height="680" allow="autoplay"></iframe>
 
+<iframe src="https://drive.google.com/file/d/1Iu7YXT35fO_Z0yOuMUM27FENuZNy4FCP/preview" width="840" height="680" allow="autoplay"></iframe>
+
 <iframe src="https://drive.google.com/file/d/1pLe8Xe0WEbw40FBLezdTF160Di0GN9Wl/preview" width="840" height="680" allow="autoplay"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1V4mUnjz10qxqaBCvd3EK5zQKDzd6uYZh/preview" width="840" height="680" allow="autoplay"></iframe>
