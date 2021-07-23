@@ -2,7 +2,6 @@
 date: 2019-11-15
 title: QUY HOẠCH PHÂN KHU KHU VỰC ĐƯỜNG NGUYỄN SIÊU, CAO THẮNG, NGÔ QUYỀN, LA SƠN PHU TỬ, HAI BÀ TRƯNG, XÔ VIẾT NGHỆ TĨNH (KHU D5)
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: QUY-HOẠCH-PHÂN-KHU-KHU-VỰC-ĐƯỜNG-NGUYỄN-SIÊU,-CAO-THẮNG,-NGÔ-QUYỀN,-LA-SƠN-PHU-TỬ,-HAI-BÀ-TRƯNG,-XÔ-VIẾT-NGHỆ-TĨNH-(KHU-D5)

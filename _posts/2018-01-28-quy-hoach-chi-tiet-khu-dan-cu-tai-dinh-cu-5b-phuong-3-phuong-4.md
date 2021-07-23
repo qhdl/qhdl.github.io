@@ -2,7 +2,6 @@
 date: 2019-01-28
 title: Quy hoạch chi tiết khu dân cư - tái định cư 5B, phường 3, phường 4
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-5b-phuong-3-phuong-4

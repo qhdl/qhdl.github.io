@@ -2,7 +2,6 @@
 date: 2019-01-31
 title: Trung tâm Văn hóa thể dục thể thao tỉnh Lâm Đồng
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: trung-tam-van-hoa-the-duc-the-thao-tinh-lam-dong

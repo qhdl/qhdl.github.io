@@ -2,7 +2,6 @@
 date: 2019-03-07
 title: Quy hoạch phân khu Khu vực Đông - Bắc hồ Xuân Hương (Khu A9), phường 8 và phường 9, thành phố Đà Lạt
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-phan-khu-khu-vuc-dong-bac-ho-xuan-huong-khu-a9-phuong-8-va-phuong-9-thanh-pho-da-lat

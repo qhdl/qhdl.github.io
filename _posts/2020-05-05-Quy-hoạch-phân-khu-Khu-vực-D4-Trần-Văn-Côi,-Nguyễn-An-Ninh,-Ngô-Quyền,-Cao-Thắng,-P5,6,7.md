@@ -2,7 +2,6 @@
 date: 2020-05-05
 title: Dự thảo đồ án quy hoạch phân khu Khu vực D4 Trần Văn Côi, Nguyễn An Ninh, Ngô Quyền, Cao Thắng, P5,6,7
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7

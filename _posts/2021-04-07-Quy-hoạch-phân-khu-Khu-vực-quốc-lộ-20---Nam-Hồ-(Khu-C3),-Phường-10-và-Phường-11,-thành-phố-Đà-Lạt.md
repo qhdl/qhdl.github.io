@@ -2,7 +2,6 @@
 date: 2021-04-07
 title: Quy hoạch phân khu Khu vực quốc lộ 20 - Nam Hồ (Khu C3), Phường 10 và Phường 11, thành phố Đà Lạt
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-Khu-vực-quốc-lộ-20---Nam-Hồ-(Khu-C3),-Phường-10-và-Phường-11,-thành-phố-Đà-Lạt

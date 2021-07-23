@@ -2,7 +2,6 @@
 date: 2020-10-09
 title: Quy Hoạch Phân Khu Khu Vực Huỳnh Tấn Phát, Suối Nam Hồ (Khu C1), Phường 11
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: Quy-Hoạch-Phân-Khu-Khu-Vực-Huỳnh-Tấn-Phát-Suối-Nam-Hồ-(Khu-C1)-Phường-11

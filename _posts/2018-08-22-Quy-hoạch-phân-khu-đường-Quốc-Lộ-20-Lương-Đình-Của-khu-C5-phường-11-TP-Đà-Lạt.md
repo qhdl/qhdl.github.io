@@ -2,7 +2,6 @@
 date: 2019-08-22
 title: Quy hoạch phân khu đường Quốc Lộ 20 - Lương Đình Của (khu C5), phường 11, TP Đà Lạt
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-đường-Quốc-Lộ-20-Lương-Đình-Của-khu-C5-phường-11-TP-Đà-Lạt

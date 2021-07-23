@@ -2,7 +2,6 @@
 date: 2019-01-30
 title: Quy hoạch chi tiết khu dân cư - tái định cư Phạm Hồng Thái, phường 10
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-chi-tiet-khu-dan-cu-tai-dinh-cu-pham-hong-thai-phuong-10

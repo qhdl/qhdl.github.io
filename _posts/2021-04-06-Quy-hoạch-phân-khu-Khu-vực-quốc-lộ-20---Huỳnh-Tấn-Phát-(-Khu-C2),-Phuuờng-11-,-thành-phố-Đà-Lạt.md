@@ -2,7 +2,6 @@
 date: 2021-04-06
 title: Quy hoạch phân khu Khu vực quốc lộ 20 - Huỳnh Tấn Phát (Khu C2), Phuuờng 11 , thành phố Đà Lạt
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: Quy-hoạch-phân-khu-Khu-vực-quốc-lộ-20---Huỳnh-Tấn-Phát-(-Khu-C2),-Phuuờng-11-,-thành-phố-Đà-Lạt

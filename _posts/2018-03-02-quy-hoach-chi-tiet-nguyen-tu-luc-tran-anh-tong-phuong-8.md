@@ -2,7 +2,6 @@
 date: 2019-03-02
 title: Quy hoạch chi tiết Nguyên Tử Lực - Trần Anh Tông, phường 8
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: quy-hoach-chi-tiet-nguyen-tu-luc-tran-anh-tong-phuong-8
