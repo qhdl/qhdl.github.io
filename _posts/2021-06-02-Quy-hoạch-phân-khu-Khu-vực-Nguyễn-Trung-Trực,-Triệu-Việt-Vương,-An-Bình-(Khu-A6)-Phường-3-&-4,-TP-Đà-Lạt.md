@@ -2,10 +2,9 @@
 date: 2021-06-02
 title: Quy hoạch phân khu Khu vực Nguyễn Trung Trực, Triệu Việt Vương, An Bình (Khu A6) Phường 3 & 4, TP Đà Lạt
 tags:
-
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
-key: 2021-06-02-Quy-hoạch-phân-khu-Khu-vực-Nguyễn-Trung-Trực,-Triệu-Việt-Vương,-An-Bình-(Khu-A6)-Phường-3-&-4,-TP-Đà-Lạt
+key: 2021-06-02-Quy-hoạch-phân-khu-Khu-vực-Nguyễn-Trung-Trực,-Triệu-Việt-Vương,-An-Bình-Khu-A6-Phường-3-&-4,-TP-Đà-Lạt
 cover: /assets/images/posts/2021-06-02-Quy-hoạch-phân-khu-Khu-vực.png
 ---
 

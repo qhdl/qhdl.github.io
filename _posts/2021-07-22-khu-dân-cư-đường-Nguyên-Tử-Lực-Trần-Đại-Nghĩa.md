@@ -1,10 +1,10 @@
 ---
-date: 2021-06-02
+date: 2021-07-22
 title: Nhiệm vụ điều chỉnh quy hoạch phân khu, khu dân cư đường Nguyên Tử Lực - Trần Đại Nghĩa, P8, TP Đà Lạt
 tags:
 - Nhiệm Vụ Quy Hoạch
 author: Lap Nguyen
-key: Nhiệm-vụ-điều-chỉnh-quy-hoạch-phân-khu,-khu-dân-cư-đường-Nguyên-Tử-Lực-Trần-Đại-Nghĩa,-P8,-TP-Đà-Lạt
+key: 2021-07-22-khu-dân-cư-đường-Nguyên-Tử-Lực-Trần-Đại-Nghĩa
 cover: /assets/images/posts/2021-07-22-khu-dân-cư-đường-Nguyên-Tử-Lực-Trần-Đại-Nghĩa.png
 ---
 
