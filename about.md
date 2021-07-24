@@ -74,3 +74,5 @@ Năm 2011, UBND tỉnh Lâm Đồng ban hành Quyết định số 443/QĐ-UBND 
 Và đến nay là Quyết định số 704/QĐ-TTg ngày 12/5/2014 của Thủ tướng Chính phủ Phê duyệt điều chỉnh quy hoạch chung thành phố Đà Lạt và vùng phụ cận đến năm 2030 tầm nhìn đến năm 2050
 (xem quy hoạch chung thành phố Đà Lạt đến năm 2030).
 
+{% include advertisements.html %}
+
