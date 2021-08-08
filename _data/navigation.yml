@@ -9,5 +9,5 @@ header:
       en      : &EN       Thông tin - Liên hệ
     url: /info.html
   - titles:
-       en      : &EN       Nhận tin
+       en      : &EN       Nhận tin RSS
     url: /feed.xml
