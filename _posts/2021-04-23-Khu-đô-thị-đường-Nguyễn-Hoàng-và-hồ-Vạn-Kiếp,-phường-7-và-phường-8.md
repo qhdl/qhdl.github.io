@@ -4,7 +4,7 @@ title: Quy hoạch phân khu tỉ lệ 1/2000 Khu đô thị đường Nguyễn 
 tags:
 - Dự Thảo Đồ Án Quy Hoạch
 author: Lap Nguyen
-key: 1-2000-Khu
+key: 2021-06-02-Quy-hoạch-phân-khu-Khu-vực-34
 cover: /assets/images/posts/dieu-chinh-quy-hoach-chung-thanh-pho-da-lat-den-nam-2030.png
 ---
 
