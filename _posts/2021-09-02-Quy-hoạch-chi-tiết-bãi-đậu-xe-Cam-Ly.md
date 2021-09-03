@@ -12,7 +12,7 @@ cover: /assets/images/posts/2021-09-02-Quy-hoạch-chi-tiết-bãi-đậu-xe-Cam
 
 <iframe src="https://drive.google.com/file/d/1EqST-ktyvBOUgJzJF0qRbQtnE1oVWQF4/preview" width="840" height="680" allow="autoplay"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1EqST-ktyvBOUgJzJF0qRbQtnE1oVWQF4/preview" width="840" height="680" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1rGaGsfYMax46Fcs4Qm2TU_eazjj7I8bf/preview" width="840" height="680" allow="autoplay"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1LoKcut8OEkrJinQkf8JNdNfkR9NRoRyn/preview" width="840" height="680" allow="autoplay"></iframe>
 
@@ -25,8 +25,6 @@ cover: /assets/images/posts/2021-09-02-Quy-hoạch-chi-tiết-bãi-đậu-xe-Cam
 <iframe src="https://drive.google.com/file/d/18JmzUWPOVqNzWRSjFErYCGtMldbefp4Z/preview" width="840" height="680" allow="autoplay"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1NyztaLaU8csdybmtsHNdgEW7enADTYTw/preview" width="840" height="680" allow="autoplay"></iframe>
-
-<iframe src="https://drive.google.com/file/d/1wiepb6CrBLvZXghftshsN_VVQXE0b3Ph/preview" width="840" height="680" allow="autoplay"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1ptRwWcLSargfKw3t6XL7wQ8S36ttGJPN/preview" width="840" height="680" allow="autoplay"></iframe>
 
