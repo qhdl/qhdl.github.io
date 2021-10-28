@@ -22,6 +22,7 @@ cover: /assets/images/posts/2021-10-27-Dự-thảo-đồ-án-điều-chỉnh-quy
 <iframe src="https://drive.google.com/file/d/1Qawvzz9vQUS_Esk5GW6g-ykZCzODUcQY/preview" width="850" height="450" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1Uoe1NaRHYL8dFxOTcuEEGTtZaXfVht8F/preview" width="850" height="450" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1WCcnFN1mryrv-hHEzgVXUBfWLxntkMJH/preview" width="850" height="450" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1JWQfGOe6J6QQC6uOwlfiWmh_bJPHNZZi/preview" width="850" height="450" allow="autoplay"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
