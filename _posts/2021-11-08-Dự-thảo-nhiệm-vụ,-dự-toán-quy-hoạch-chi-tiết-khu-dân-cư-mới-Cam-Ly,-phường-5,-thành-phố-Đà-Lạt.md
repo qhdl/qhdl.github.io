@@ -10,6 +10,8 @@ cover: /assets/images/posts/do-an-quy-hoach.jpg
 
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
+<iframe src="https://drive.google.com/file/d/1JM-0HSDznBFj3tfnJjQts0pEOndZNe68/preview" width="640" height="680" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1LqivbjCfERxajRogyAdoWD4EWWbVW_u7/preview" width="640" height="680" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1YX6UKFC67tNLmwhdrrAFyLoS4u7eEKtU/preview" width="640" height="680" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1brRIatlfaxnvBNWpR7D_jn6IVPaKx45H/preview" width="640" height="680" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1kMrij7PcbpsGh9LKsdmKHnU22eRVyIjD/preview" width="640" height="680" allow="autoplay"></iframe>
