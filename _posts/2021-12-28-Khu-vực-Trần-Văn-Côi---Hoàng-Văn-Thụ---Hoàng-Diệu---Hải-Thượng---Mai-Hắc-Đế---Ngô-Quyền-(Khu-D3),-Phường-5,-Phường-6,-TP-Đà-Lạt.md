@@ -1,6 +1,6 @@
 ---
 date: 2021-12-28
-title: Quy hoạch phân khu Khu-vực-Trần-Văn-Côi---Hoàng-Văn-Thụ---Hoàng-Diệu---Hải-Thượng---Mai-Hắc-Đế---Ngô-Quyền-(Khu-D3),-Phường-5,-Phường-6,-TP-Đà-Lạt
+title: Quy hoạch phân khu Khu vực Trần Văn Côi - Hoàng Văn Thụ - Hoàng Diệu - Hải Thượng - Mai Hắc Đế - Ngô Quyền (Khu D3), phường 5, phường 6, thành phố Đà Lạt
 tags:
 - Quy Hoạch phân khu
 author: Lap Nguyen
