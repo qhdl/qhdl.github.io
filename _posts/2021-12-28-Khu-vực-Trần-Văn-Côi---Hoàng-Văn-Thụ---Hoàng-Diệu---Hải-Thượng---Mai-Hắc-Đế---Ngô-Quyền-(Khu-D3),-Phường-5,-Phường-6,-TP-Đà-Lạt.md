@@ -10,9 +10,9 @@ cover: /assets/images/posts/2021-12-28-Khu-vực-Trần-Văn-Côi---Hoàng-Văn-
 
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
-<iframe src="https://drive.google.com/file/d/17NqsZn0OCicEZ_3YEms9VnlzpGuPv1L4/preview" width="640" height="680" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1FiDPWCE7gZtySPD68ELukceoLUoBOvE_/preview" width="640" height="680" allow="autoplay"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1IP-LEF_tavyR_F6yWfjBslPtIFUp25Wq/preview" width="640" height="680" allow="autoplay"></iframe>iframe>
+<iframe src="https://drive.google.com/file/d/1IP-LEF_tavyR_F6yWfjBslPtIFUp25Wq/preview" width="640" height="680" allow="autoplay"></iframe
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
