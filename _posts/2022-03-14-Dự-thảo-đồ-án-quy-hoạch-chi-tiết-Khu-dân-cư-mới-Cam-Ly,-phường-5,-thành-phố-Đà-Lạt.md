@@ -1,17 +1,18 @@
 ---
 date: 2022-03-14
-title: Dự thảo đồ án quy hoạch phân khu Khu vực đường Triệu Việt Vương - An Bình - Đống Đa (Khu D2), phường 3, thành phố Đà Lạt
+title: Dự thảo đồ án quy hoạch chi tiết Khu dân cư mới Cam Ly, phường 5, thành phố Đà Lạt
 tags:
 - Dự Thảo
 author: Lap Nguyen
-key: Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-đường-Triệu-Việt-Vương---An-Bình---Đống-Đa-(Khu-D2),-phường-3,-thành-phố-Đà-Lạt
-cover: /assets/images/posts/Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-đường-Triệu-Việt-Vương---An-Bình---Đống-Đa-(Khu-D2),-phường-3,-thành-phố-Đà-Lạt.png
+key: Dự-thảo-đồ-án-quy-hoạch-chi-tiết-Khu-dân-cư-mới-Cam-Ly,-phường-5,-thành-phố-Đà-Lạt
+cover: /assets/images/posts/Dự-thảo-đồ-án-quy-hoạch-chi-tiết-Khu-dân-cư-mới-Cam-Ly,-phường-5,-thành-phố-Đà-Lạt.png
 ---
 
-<iframe src="https://drive.google.com/file/d/13nxF_lBMwFY0ihycEXWjc7EO42-Yz3c9/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/1y16OdkQinN62SmY8Sme9Fy6uHEpU3u06/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/1dzgwU8MznOrIKYUO5vR7RRQAyQVMsRYB/preview" width="840" height="680"></iframe>
-<iframe src="https://drive.google.com/file/d/11hNl0LIT7yf5Hq4VuKgjkT4vz322oMbY/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1Bzu02wIxE0evKHAlskDj2L7TGD7kyEMi/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1U73GujACKyi6o1CYaHHo87ih4_wlvFMs/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1VCn3hxoI-Gm-ck7vfKyX7Up9PriUfIuX/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1ZN2xGt-ZTYUP0GpIPQ9UwlGESqhrnF3U/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1noYCWYFUBjXx_borchJSkQakvfeKsbuE/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ

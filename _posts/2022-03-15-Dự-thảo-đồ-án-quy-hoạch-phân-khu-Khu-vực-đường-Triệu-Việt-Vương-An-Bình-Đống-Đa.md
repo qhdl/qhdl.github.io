@@ -1,10 +1,10 @@
 ---
-date: 2022-03-14
+date: 2022-03-15
 title: Dự thảo đồ án quy hoạch phân khu Khu vực đường Triệu Việt Vương - An Bình - Đống Đa (Khu D2), phường 3, thành phố Đà Lạt
 tags:
 - Dự Thảo
 author: Lap Nguyen
-key: Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-đường-Triệu-Việt-Vương---An-Bình---Đống-Đa-(Khu-D2),-phường-3,-thành-phố-Đà-Lạt
+key: Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-đường-Triệu-Việt-Vương
 cover: /assets/images/posts/Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-đường-Triệu-Việt-Vương---An-Bình---Đống-Đa-(Khu-D2),-phường-3,-thành-phố-Đà-Lạt.png
 ---
 
