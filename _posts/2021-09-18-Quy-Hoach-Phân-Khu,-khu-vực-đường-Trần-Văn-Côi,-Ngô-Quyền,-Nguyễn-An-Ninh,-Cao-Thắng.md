@@ -12,7 +12,7 @@ cover: /assets/images/posts/Quy-Hoach-Phân-Khu,-khu-vực-đường-Trần-Văn
 
 <iframe src="https://drive.google.com/file/d/1_x5xr5lYr0idBmmkVJyVuQRFro3RYLTe/preview" width="640" height="680" allow="autoplay"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1CRU_kf89dEcMHAFZjy0CMJuUUXWmcEfj/preview" width="640" height="680" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1LQaFBGwuRn5Vi7kgePEPWS5Yw1_zdZd1/preview" width="640" height="680" allow="autoplay"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 
