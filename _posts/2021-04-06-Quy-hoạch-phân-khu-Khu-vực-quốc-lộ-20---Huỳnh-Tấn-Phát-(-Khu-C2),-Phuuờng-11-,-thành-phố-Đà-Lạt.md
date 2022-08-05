@@ -10,7 +10,7 @@ cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-quốc-lộ-20---Hu�
 
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
-<iframe src="https://drive.google.com/file/d/1HVHM56uXB0f2oHqKBHg9oMYBERyNnYKA/preview" width="840" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1ct-y6ubTJX2hq95x41RKkJTkD7XbeHLL/preview" width="840" height="680"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1t9qone4oQamIvf_CZjU4r9F6d2KdYvyh/preview" width="840" height="680"></iframe>
 
