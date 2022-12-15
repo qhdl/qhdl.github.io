@@ -8,6 +8,8 @@ key: Khu-quy-hoạch-chi-tiết-phân-lô-đường-Bạch-Đằng---Ngô-Quyế
 cover: /assets/images/posts/2022-07-04-Khu-quy-hoạch-chi-tiết-phân-lô-đường-Bạch-Đằng---Ngô-Quyến,-phường-6.png
 ---
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
+
 <iframe src="https://drive.google.com/file/d/1vF808CkAgReuBe22eQbsI1ekzL8IUS7G/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1cGepXRU59n9dkOfgL3BKf03rhh6tXcLE/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1o3syDDWDvoXrk7v_G5vYqkX-LorijpVt/preview" width="840" height="680"></iframe>
