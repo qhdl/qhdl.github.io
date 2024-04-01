@@ -8,6 +8,11 @@ key: Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô
 cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-D4-Trần-Văn-Côi,-Nguyễn-An-Ninh,-Ngô-Quyền,-Cao-Thắng,-P5,6,7.png.png
 published: false
 ---
+
+**Dự thảo đồ án quy hoạch phân khu Khu vực D4 Trần Văn Côi, Nguyễn An Ninh, Ngô Quyền, Cao Thắng, P5,6,7**
+
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
+
 <iframe src="https://drive.google.com/file/d/1nEvvLo9lQwol7sVA7Fh5IxDzGZNwYgcJ/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1rvgRZm_CvMHytGueQG95HFRrlVeKudfx/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1FzUX0XrwafdD5Loc2EtkDEJMbyEKx-mW/preview" width="840" height="680"></iframe>

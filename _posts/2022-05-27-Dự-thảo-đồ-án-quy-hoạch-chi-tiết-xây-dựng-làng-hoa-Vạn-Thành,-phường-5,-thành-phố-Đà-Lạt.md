@@ -8,6 +8,8 @@ key: Dự-thảo-đồ-án-quy-hoạch-chi-tiết-xây-dựng-làng-hoa-Vạn-Th
 cover: /assets/images/posts/2021-10-27-Dự-thảo-đồ-án-điều-chỉnh-quy-hoạch-chi-tiết-công-viên-Xuân-Hương.png
 ---
 
+**Dự thảo đồ án quy hoạch chi tiết xây dựng làng hoa Vạn Thành, phường 5, thành phố Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/14zq-JfG_Gt16HhCh7nLwuR7JvkhHKrSr/preview" width="840" height="680"></iframe>

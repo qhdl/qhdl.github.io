@@ -8,6 +8,8 @@ key: Dự-thảo-đồ-án-điều-chỉnh-quy-hoạch-chi-tiết-Quảng-trư�
 cover: /assets/images/posts/2022-12-12-Dự-thảo-đồ-án-điều-chỉnh-quy-hoạch-chi-tiết-Quảng-trường-Lâm-Viên.png
 ---
 
+**Dự thảo đồ án điều chỉnh quy hoạch chi tiết Quảng trường Lâm Viên, phường 10, thành phô Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/114scAgNwy8Zj-DuTr2DTJ7R1D5DQbDy7/preview" width="840" height="680"></iframe>

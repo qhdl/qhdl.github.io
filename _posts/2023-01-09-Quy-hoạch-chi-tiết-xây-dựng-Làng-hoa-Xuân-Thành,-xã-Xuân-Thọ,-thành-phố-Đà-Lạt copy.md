@@ -8,6 +8,8 @@ key: 2023-01-09-Quy-hoạch-chi-tiết-xây-dựng-Làng-hoa-Xuân-Thành,-xã-X
 cover: /assets/images/posts/2023-01-09-Quy-hoạch-chi-tiết-xây-dựng-Làng-hoa-Xuân-Thành,-xã-Xuân-Thọ,-thành-phố-Đà-Lạt.png
 ---
 
+**Quy hoạch chi tiết xây dựng Làng hoa Xuân Thành, xã Xuân Thọ, thành phố Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/11ao3-8SsW-2ImMvxIQPXj6t4o1wSHnUM/preview" width="840" height="680"></iframe>

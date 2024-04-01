@@ -8,8 +8,11 @@ key: quy-hoach-chi-tiet-xay-dung-khu-dan-cu-tai-dinh-cu-duong-ngo-thi-sy-phuong-
 cover: /assets/images/posts/do-an-quy-hoach.jpg
 ---
 
+**Quy hoạch chi tiết xây dựng khu dân cư - tái định cư đường Ngô Thì Sỹ, phường 4**
+
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
+
 <iframe src="https://drive.google.com/file/d/1_wLGyFs0i1GGImEKHM4SQdeH_PQxSCjc/preview" width="840" height="680"></iframe>
-<!--more-->
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 

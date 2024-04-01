@@ -8,6 +8,8 @@ key: 2021-11-08-Dự-thảo-nhiệm-vụ,-dự-toán-quy-hoạch-chi-tiết-khu-
 cover: /assets/images/posts/do-an-quy-hoach.jpg
 ---
 
+**Dự thảo nhiệm vụ, dự toán quy hoạch chi tiết khu dân cư mới Cam Ly, phường 5, thành phố Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1JM-0HSDznBFj3tfnJjQts0pEOndZNe68/preview" width="640" height="680" allow="autoplay"></iframe>

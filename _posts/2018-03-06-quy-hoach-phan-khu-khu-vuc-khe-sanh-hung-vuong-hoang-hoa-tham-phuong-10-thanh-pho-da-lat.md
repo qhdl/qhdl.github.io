@@ -8,15 +8,16 @@ key: quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-tha
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-khe-sanh-hung-vuong-hoang-hoa-tham-phuong-10-thanh-pho-da-lat.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
-<iframe src="https://drive.google.com/file/d/1A8t-JJtqEK5MvIx5XUefRCwAv45mJKVj/preview" width="840" height="680"></iframe>
+**Quy hoạch phân khu Khu vực Khe Sanh - Hùng Vương - Hoàng Hoa Thám (Khu B1), phường 10, thành phố Đà Lạt**
 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
+
+<iframe src="https://drive.google.com/file/d/1A8t-JJtqEK5MvIx5XUefRCwAv45mJKVj/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1FOh9C3kueKijARO0SD8jEbeR_xcgU8z1/preview" width="840" height="680"></iframe>
 
-Cập nhật quy hoạch mới
+> Cập nhật quy hoạch mới
 
 <iframe src="https://drive.google.com/file/d/1hXfaUSMcOZL8cWg00IITi0iyIh1C6a0k/preview" width="840" height="680"></iframe>
-
 <iframe src="https://drive.google.com/file/d/1QGMOBFtTTYQuMJGkevWfDOAwaMUeurxT/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 

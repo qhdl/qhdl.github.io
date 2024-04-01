@@ -8,6 +8,8 @@ key: 2021-08-26-Nhiệm-vụ-điều-chỉnh-quy-hoạch-khu-dân-cư
 cover: /assets/images/posts/2021-08-26-Nhiệm-vụ-điều-chỉnh-quy-hoạch-khu.png
 ---
 
+**Nhiệm vụ điều chỉnh quy hoạch khu dân cư, tái định cư 5B, Phường 3-4, TP Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1x7Jv0L_XjKPYviHNoaLnjcQHke2UHoos/preview" width="840" height="680" allow="autoplay"></iframe>

@@ -8,6 +8,8 @@ key: Quy-Hoach-Phân-Khu,-khu-vực-đường-Trần-Văn-Côi,-Ngô-Quyền,-Ng
 cover: /assets/images/posts/Quy-Hoach-Phân-Khu,-khu-vực-đường-Trần-Văn-Côi,-Ngô-Quyền,-Nguyễn-An-Ninh,-Cao-Thắng-(Khu-D4).png
 ---
 
+**Quy Hoach Phân Khu, khu vực đường Trần Văn Côi, Ngô Quyền, Nguyễn An Ninh, Cao Thắng (Khu D4), TP Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1_x5xr5lYr0idBmmkVJyVuQRFro3RYLTe/preview" width="640" height="680" allow="autoplay"></iframe>

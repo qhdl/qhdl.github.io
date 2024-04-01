@@ -8,6 +8,8 @@ key: Dự-thảo-Quy-hoạch-chi-tiết-Khu-dịch-vụ,-du-lịch-cảnh-quan-h
 cover: /assets/images/posts/Dự-thảo-Quy-hoạch-chi-tiết-Khu-dịch-vụ,-du-lịch-cảnh-quan-hồ-Mê-Linh.png
 ---
 
+**Dự thảo Quy hoạch chi tiết Khu dịch vụ, du lịch cảnh quan hồ Mê Linh, tỷ lệ 1/500, phường 9, thành phố Đà Lạt, tỉnh Lâm Đồng**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1Iu9V8aSpNGXHfUPj4oVgbJsPAU_Etk2d/preview" width="840" height="680"></iframe>

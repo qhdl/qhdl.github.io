@@ -8,6 +8,8 @@ key: Quy-Hoạch-phân-khu-Khu-vực-đường-Nguyễn-Siêu,-Cao-Thắng,-
 cover: /assets/images/posts/Quy-Hoạch-phân-khu-Khu-vực-đường-Nguyễn-Siêu,-Cao-Thắng,-Ngô-Quyền,-La-Sơn-Phu-Tử,-Hai-Bà-Trưng,-Xô-Viết-Nghệ-Tĩnh-(Khu-D5).png
 ---
 
+**Quy Hoạch phân khu - Khu vực đường Nguyễn Siêu, Cao Thắng, Ngô Quyền, La Sơn Phu Tử, Hai Bà Trưng, Xô Viết Nghệ Tĩnh (Khu D5)**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1gEdYfNMIB7GQ_R5LUFpq350NbP2ehX-k/preview" width="840" height="680" allow="autoplay"></iframe>

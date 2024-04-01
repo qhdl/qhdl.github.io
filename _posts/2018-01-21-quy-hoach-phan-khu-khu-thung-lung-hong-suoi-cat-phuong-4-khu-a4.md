@@ -8,10 +8,11 @@ key: quy-hoach-phan-khu-khu-thung-lung-hong-suoi-cat-phuong-4-khu-a4
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-thung-lung-hong-suoi-cat-phuong-4-khu-a4.png
 ---
 
+**Quy hoạch phân khu khu thung lũng Hồng - Suối Cát, Phường 4 (Khu A4)**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/1UPgoGesdzNVZ_r9mqSVngirjq9TYb3ds/preview" width="840" height="680"></iframe>
-<!--more-->
 <iframe src="https://drive.google.com/file/d/16feLJOInVfO6y_oWdREeSCAiT55cpra9/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 

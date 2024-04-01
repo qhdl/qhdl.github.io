@@ -8,6 +8,8 @@ key: Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-đường-Triệu-Vi�
 cover: /assets/images/posts/Dự-thảo-đồ-án-quy-hoạch-phân-khu-Khu-vực-đường-Triệu-Việt-Vương---An-Bình---Đống-Đa-(Khu-D2),-phường-3,-thành-phố-Đà-Lạt.png
 ---
 
+**Dự thảo đồ án quy hoạch phân khu Khu vực đường Triệu Việt Vương - An Bình - Đống Đa (Khu D2), phường 3, thành phố Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/13nxF_lBMwFY0ihycEXWjc7EO42-Yz3c9/preview" width="840" height="680"></iframe>

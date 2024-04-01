@@ -8,8 +8,11 @@ key: quy-dinh-lo-gioi-va-cac-chi-tieu-kien-truc-chu-yeu-ve-quan-ly-quy-hoach-xay
 cover: /assets/images/posts/quy-hoach-chinh-trang.jpg
 ---
 
+**Quy định lộ giới và các chỉ tiêu kiến trúc chủ yếu về quản lý quy hoạch, xây dựng đối với nhà ở, công trình riêng lẻ trên địa bàn thành phố Đà Lạt, tỉnh Lâm Đồng**
+
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
+
 <iframe src="https://drive.google.com/file/d/1H8nzUc-sLtMepWFEEeznh-1u2QLoHs3s/preview" width="840" height="680"></iframe>
-<!--more-->
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 

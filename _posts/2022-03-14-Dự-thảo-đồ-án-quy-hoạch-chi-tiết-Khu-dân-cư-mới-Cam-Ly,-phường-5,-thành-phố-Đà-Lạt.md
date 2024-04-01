@@ -8,6 +8,8 @@ key: Dự-thảo-đồ-án-quy-hoạch-chi-tiết-Khu-dân-cư-mới-Cam-Ly,-ph�
 cover: /assets/images/posts/Dự-thảo-đồ-án-quy-hoạch-chi-tiết-Khu-dân-cư-mới-Cam-Ly,-phường-5,-thành-phố-Đà-Lạt.png
 ---
 
+**Dự thảo đồ án quy hoạch chi tiết Khu dân cư mới Cam Ly, phường 5, thành phố Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1Bzu02wIxE0evKHAlskDj2L7TGD7kyEMi/preview" width="840" height="680"></iframe>

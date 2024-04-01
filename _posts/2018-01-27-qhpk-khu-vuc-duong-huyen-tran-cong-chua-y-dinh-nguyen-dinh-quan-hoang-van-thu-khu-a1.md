@@ -8,12 +8,11 @@ key: qhpk-khu-vuc-duong-huyen-tran-cong-chua-y-dinh-nguyen-dinh-quan-hoang-van-t
 cover: /assets/images/posts/qhpk-khu-vuc-duong-huyen-tran-cong-chua-y-dinh-nguyen-dinh-quan-hoang-van-thu-khu-a1.png
 ---
 
-QHPK khu vực đường Huyền Trân Công Chúa - Y Dinh - Nguyễn Đình Quân - Hoàng Văn Thụ (Khu A1) và khu vực đường Huyền Trân Công Chúa - Hoàng Văn Thụ - Ngô Thì Sỹ - Trần Lê (Khu A2) phường 4, phường 5, thành phố Đà Lạt.
+**QHPK khu vực đường Huyền Trân Công Chúa - Y Dinh - Nguyễn Đình Quân - Hoàng Văn Thụ (Khu A1) và khu vực đường Huyền Trân Công Chúa - Hoàng Văn Thụ - Ngô Thì Sỹ - Trần Lê (Khu A2) phường 4, phường 5, thành phố Đà Lạt.**
 
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1vjdBxcwBbwWh04AhxB2014R9s1zjjO41/preview" width="840" height="680"></iframe>
-<!--more-->
 <iframe src="https://drive.google.com/file/d/1T4UdI4372hgBw9u-g2CguccNrN-vg3Cw/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 

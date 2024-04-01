@@ -8,6 +8,8 @@ key: 2023-04-15-Quy-hoạch-chi-tiết-xây-dựng-làng-hoa-Vạn-Thành
 cover: /assets/images/posts/2023-04-15-Quy-hoạch-chi-tiết-xây-dựng-làng-hoa-Vạn-Thành.png
 ---
 
+**Quy hoạch chi tiết xây dựng làng hoa Vạn Thành,phường 5, thành phố Đà lạt (tỷ lệ 1/500)**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/13QEXugt1h4kEMmQ_IMvXGaXA_fw3l3m0/preview" width="840" height="680"></iframe>

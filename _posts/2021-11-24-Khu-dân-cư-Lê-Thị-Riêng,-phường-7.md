@@ -8,6 +8,8 @@ key: 2021-11-24-Khu-dân-cư-Lê-Thị-Riêng,-phường-7
 cover: /assets/images/posts/2021-11-24-Khu-dân-cư-Lê-Thị-Riêng,-phường-7.png
 ---
 
+**Nhiệm vụ, dự toán điều chỉnh quy hoạch chi tiết xây dựng Khu dân cư Lê Thị Riêng, phường 7, thành phố Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1GpfsLgO-D5xRWkBuBhUQ0EPXS-Usf5HL/preview" width="840" height="680" allow="autoplay"></iframe>

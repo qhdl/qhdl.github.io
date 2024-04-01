@@ -8,6 +8,8 @@ key: Quy-hoạch-phân-khu-Khu-vực-quốc-lộ-20---Nam-Hồ-(Khu-C3),-Phườ
 cover: /assets/images/posts/Quy-hoạch-phân-khu-Khu-vực-quốc-lộ-20---Nam-Hồ-(Khu-C3),-Phường-10-và-Phường-11,-thành-phố-Đà-Lạt.png
 ---
 
+**Quy hoạch phân khu Khu vực quốc lộ 20 - Nam Hồ (Khu C3), Phường 10 và Phường 11, thành phố Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/192vup0i-PvfwtEsXct71lbppHc6aJepo/preview" width="840" height="680"></iframe>

@@ -8,6 +8,8 @@ key: Dự-thảo-nhiệm-vụ,-dự-toán-Quy-hoạch-phân-khu-Khu-đô-thị-p
 cover: /assets/images/posts/Dự-thảo-nhiệm-vụ,-dự-toán-Quy-hoạch-phân-khu-Khu-đô-thị-phía-Đông-phường-9,-11,-12.png
 ---
 
+**Dự thảo nhiệm vụ, dự toán Quy hoạch phân khu Khu đô thị phía Đông thành phố Đà Lạt, phường 9, 11, 12, thành phố Đà lạt, tỉnh Lâm Đồng**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/10ksycr4rhTzuO7SXngmkDWR-M0BOOXZd/preview" width="840" height="680"></iframe>

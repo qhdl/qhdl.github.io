@@ -9,12 +9,13 @@ cover: /assets/images/posts/nhiem-vu-quy-hoach-chi-tiet-lang-hoa-van-thanh.png
 published: false
 ---
 
+**Nhiệm vụ quy hoạch chi tiết làng hoa Vạn Thành**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/19s901K17F7azAdPiCX9n_03T4UrKt5S2/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1DaPtogXekB8F-XgXkKlUWm2VzxrhNZm9/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/16hmjLPPVkN12nArSAtAfY8tZZYcL0M7N/preview" width="840" height="680"></iframe>
-<!--more-->
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 
 (Ban quản lý dự án đầu tư xây dựng thành phố Đà Lạt) được giao làm chủ đầu tư thực hiện công tác quản lý nghiệp vụ 

@@ -8,6 +8,8 @@ key: Dự-thảo-Nhiệm-vụ,-dự-toán-Quy-hoạch-phân-khu-Khu-dân-cư-Cam
 cover: /assets/images/posts/Dự-thảo-Nhiệm-vụ,-dự-toán-Quy-hoạch-phân-khu-Khu-dân-cư-Cam-Ly,-phường-5.png
 ---
 
+**Dự thảo Nhiệm vụ, dự toán Quy hoạch phân khu Khu dân cư Cam Ly, phường 5, thành phố Đà Lạt, tỉnh Lâm Đồng**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/15dZxA324bcyb-C22rLGWrNPCxOTt1f8-/preview" width="840" height="680"></iframe>

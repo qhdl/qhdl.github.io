@@ -1,13 +1,17 @@
 ---
 date: 2019-11-15
-title: QUY HOẠCH PHÂN KHU KHU VỰC ĐƯỜNG NGUYỄN SIÊU, CAO THẮNG, NGÔ QUYỀN, LA SƠN PHU TỬ, HAI BÀ TRƯNG, XÔ VIẾT NGHỆ TĨNH (KHU D5)
+title: Quy hoạch phân khu khu vực đường nguyễn siêu, cao thắng, ngô quyền, la sơn phu tử, hai bà trưng, xô viết nghệ tĩnh (khu d5)
 tags:
 - Quy hoạch đã được duyệt
 author: Lap Nguyen
 key: QUY-HOẠCH-PHÂN-KHU-KHU-VỰC-ĐƯỜNG-NGUYỄN-SIÊU,-CAO-THẮNG,-NGÔ-QUYỀN,-LA-SƠN-PHU-TỬ,-HAI-BÀ-TRƯNG,-XÔ-VIẾT-NGHỆ-TĨNH-(KHU-D5)
 cover: /assets/images/posts/QUY-HOẠCH-PHÂN-KHU-KHU-VỰC-ĐƯỜNG-NGUYỄN-SIÊU,-CAO-THẮNG,-NGÔ-QUYỀN,-LA-SƠN-PHU-TỬ,-HAI-BÀ-TRƯNG,-XÔ-VIẾT-NGHỆ-TĨNH-(KHU-D5).png
-published: false
+# published: false
 ---
+
+Quy hoạch phân khu khu vực đường nguyễn siêu, cao thắng, ngô quyền, la sơn phu tử, hai bà trưng, xô viết nghệ tĩnh (khu d5)
+
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/1tPCvuISeQgJPhjjMa-sdC6RL36WGfy1A/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1_ao_bFCMAyqdKSM3jJRJJRdQoUWydAL7/preview" width="840" height="680"></iframe>

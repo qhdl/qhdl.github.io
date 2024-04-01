@@ -8,6 +8,8 @@ key: 2021-09-02-Quy-hoạch-chi-tiết-bãi-đậu-xe-Cam-Ly
 cover: /assets/images/posts/2021-09-02-Quy-hoạch-chi-tiết-bãi-đậu-xe-Cam-Ly.png
 ---
 
+**Dự Thảo Quy hoạch chi tiết bãi đậu xe Cam Ly TP Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1EqST-ktyvBOUgJzJF0qRbQtnE1oVWQF4/preview" width="840" height="680" allow="autoplay"></iframe>

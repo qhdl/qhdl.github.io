@@ -8,6 +8,8 @@ key: Dự-thảo-nhiệm-vụ,-dự-toán-quy-hoạch-chi-tiết-khu-dân-cư-s�
 cover: /assets/images/posts/Dự-thảo-nhiệm-vụ,-dự-toán-quy-hoạch-chi-tiết-khu-dân-cư-số-1.png
 ---
 
+**Dự thảo nhiệm vụ, dự toán quy hoạch chi tiết khu dân cư số 1 - tỷ lệ 1/500, phường 8, thành phố Đà Lạt.z**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/173rx69xgTFDjQGrUTqVwRh6-YnZFy7wW/preview" width="840" height="680"></iframe>

@@ -8,6 +8,8 @@ key: Quy-hoạch-phân-khu-đường-Quốc-Lộ-20-Lương-Đình-Của-khu-C5-
 cover: /assets/images/posts/Quy-hoạch-phân-khu-đường-Quốc-Lộ-20-Lương-Đình-Của-khu-C5-phường-11-TP-Đà-Lạt.png
 ---
 
+Quy hoạch phân khu đường Quốc Lộ 20 - Lương Đình Của (khu C5), phường 11, TP Đà Lạt
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
 
 <iframe src="https://drive.google.com/file/d/1TgXm7hCkYiLhd3ZkDd7yefoeEd33Hw8_/preview" width="840" height="680"></iframe>

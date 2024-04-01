@@ -8,6 +8,8 @@ key: 2021-07-22-khu-dân-cư-đường-Nguyên-Tử-Lực-Trần-Đại-Nghĩa
 cover: /assets/images/posts/2021-07-22-khu-dân-cư-đường-Nguyên-Tử-Lực-Trần-Đại-Nghĩa.png
 ---
 
+**Nhiệm vụ điều chỉnh quy hoạch phân khu, khu dân cư đường Nguyên Tử Lực - Trần Đại Nghĩa, P8, TP Đà Lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1FxD3GBRFSYV9y0pAYW7e9Nns0qCju3c2/preview" width="840" height="680"></iframe>

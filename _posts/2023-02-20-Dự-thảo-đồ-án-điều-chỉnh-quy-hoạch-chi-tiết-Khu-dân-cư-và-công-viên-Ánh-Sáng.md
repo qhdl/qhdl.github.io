@@ -8,6 +8,8 @@ key: Dự-thảo-đồ-án-điều-chỉnh-quy-hoạch-chi-tiết-Khu-dân-cư-v
 cover: /assets/images/posts/Dự-thảo-đồ-án-điều-chỉnh-quy-hoạch-chi-tiết-Khu-dân-cư-và-công-viên-Ánh-Sáng.png
 ---
 
+**Dự thảo đồ án điều chỉnh quy hoạch chi tiết Khu dân cư và công viên Ánh Sáng, phường 1, 3 và 4, thành phố Đà lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/11OC_TvHkE5Jnb_8BrhQib_C8VFmeV02I/preview" width="840" height="680"></iframe>

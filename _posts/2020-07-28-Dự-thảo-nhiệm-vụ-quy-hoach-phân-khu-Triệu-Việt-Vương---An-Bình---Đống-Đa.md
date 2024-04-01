@@ -10,6 +10,10 @@ published: false
 hidden: true
 ---
 
+**Dự thảo nhiệm vụ quy hoach phân khu Triệu Việt Vương - An Bình - Đống Đa (Khu D2), Phường 3**
+
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
+
 <iframe src="https://drive.google.com/file/d/14iYYmeHd74a4O67FMKrZtOKW39mjBqRj/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1JRR_4JZUESO2gux5LuvTbKm8OztIXGrb/preview" width="840" height="680"></iframe>
 <iframe src="https://drive.google.com/file/d/1k3RwHjkNZYVjgLGBH5m8fj45GXgzV6tT/preview" width="840" height="680"></iframe>

@@ -8,9 +8,11 @@ key: quy-hoach-phan-khu-khu-vuc-dong-bac-ho-xuan-huong-khu-a9-phuong-8-va-phuong
 cover: /assets/images/posts/quy-hoach-phan-khu-khu-vuc-dong-bac-ho-xuan-huong-khu-a9-phuong-8-va-phuong-9-thanh-pho-da-lat.png
 ---
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
+**Quy hoạch phân khu Khu vực Đông - Bắc hồ Xuân Hương (Khu A9), phường 8 và phường 9, thành phố Đà Lạt**
+
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
+
 <iframe src="https://drive.google.com/file/d/1GvSRck1yCnhnjJt2ovT8julm4z1fx73A/preview" width="840" height="680"></iframe>
-<!--more-->
 <iframe src="https://drive.google.com/file/d/1T5pEkJViOI0Nx9WkBvpunF2SJ-B3xIWW/preview" width="840" height="680"></iframe>
 
 Những thông tin quy hoạch trên đây được thu thập, truy cập từ nguồn dữ liệu hiện có mà chúng tôi 

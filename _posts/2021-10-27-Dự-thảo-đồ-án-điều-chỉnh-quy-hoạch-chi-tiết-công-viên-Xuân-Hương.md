@@ -8,6 +8,8 @@ key: 2021-10-27-Dự-thảo-đồ-án-điều-chỉnh-quy-hoạch-chi-tiết-cô
 cover: /assets/images/posts/2021-10-27-Dự-thảo-đồ-án-điều-chỉnh-quy-hoạch-chi-tiết-công-viên-Xuân-Hương.png
 ---
 
+**Dự thảo đồ án điều chỉnh quy hoạch chi tiết công viên Xuân Hương P 3 TP Đà lạt**
+
 > Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/1VCVicmu2xS1l1AMF2RPuDMHVs0rjm-2z/preview" width="850" height="450" allow="autoplay"></iframe>
