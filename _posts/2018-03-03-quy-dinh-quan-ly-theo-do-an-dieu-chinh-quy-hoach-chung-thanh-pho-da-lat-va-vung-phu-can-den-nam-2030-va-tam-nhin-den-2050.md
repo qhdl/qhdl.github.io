@@ -10,7 +10,7 @@ cover: /assets/images/posts/QH-2010.jpg
 
 **Quy định quản lý theo đồ án điều chỉnh Quy hoạch chung thành phố Đà Lạt và vùng phụ cận đến năm 2030 và tầm nhìn đến 2050**
 
-> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc. 
+> Nhấn vào dấu mũi tên góc phải bên trên để xem hình ở chất lượng gốc.
 
 <iframe src="https://drive.google.com/file/d/149rXDXTep6L2LjdrBkMZeGHlPu_DfJND/preview" width="840" height="680"></iframe>
 
